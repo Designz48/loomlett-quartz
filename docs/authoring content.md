@@ -7,7 +7,6 @@ All of the content in your Quartz should go in the `/content` folder. The cont
 It is recommended that you use [Obsidian](https://obsidian.md/) as a way to edit and maintain your Quartz. It comes with a nice editor and graphical interface to preview, edit, and link your local files and attachments.
 
 Got everything setup? Let's [[build]] and preview your Quartz locally!
-
 ## Syntax
 
 As Quartz uses Markdown files as the main way of writing content, it fully supports Markdown syntax. By default, Quartz also ships with a few syntax extensions like [Github Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (footnotes, strikethrough, tables, tasklists) and [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) ([[callouts]], [[wikilinks]]).
@@ -22,7 +21,7 @@ tags:
   - example-tag
 ---
 
-The rest of your content lives here. You can use **Markdown** here :)
+The rest of your c[[CODE_OF_CONDUCT]]ontent lives here. You can use **Markdown** here :)
 ```
 
 Some common frontmatter fields that are natively supported by Quartz:

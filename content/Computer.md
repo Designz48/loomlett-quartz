@@ -1,0 +1,2 @@
+From its humble yet jaw-dropping capabilities for calculations to its international uses for powering the internet, computers are any machines that can be programmed to output logical operations and, as you know, connect to the internet. Not only is the average "computer" like yours a computer, but also microwave's and iPhone's alike. 
+	*Info from [**wikipedia](https://en.wikipedia.org/wiki/Computer)***.
