@@ -11,12 +11,13 @@ description: Digital garden for 3D modeling, texturing, printing and more writte
 aliases: home
 date: 2025-12-13
 ---
-<img height="100" width="500" src="desk.png"></img>
-<p>
-A friendly place where 3D, color theory, design and more come together to form the messiest digital garden you might see by interweaving <i>form</i> and <i>function</i> into topics.
-</p>
-
+```python
+def greet():
+    print("A friendly place where 3D, color theory, design and more come together to form the messiest digital garden you might see by interweaving <i>form</i> and <i>function</i> into topics.")<
+```
+<img height="280" width="500" src="desk-sunrise.png"></img>
 ---
+
 <h1> About author </h1>
 <p>Hey there! I'm DesignzByOJ (OJ), a graphic designer by study and self-taught to be a React dev and 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).</p>
 

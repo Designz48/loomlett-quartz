@@ -1,12 +1,12 @@
 {
   "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "description": "Digital garden interweaving form & function",
   "private": true,
   "version": "4.5.2",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "DesignzByOJ <designzbyoj@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://loomlett.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
@@ -29,7 +29,8 @@
     "digital-garden",
     "markdown",
     "blog",
-    "quartz"
+    "quartz",
+    "3D"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
