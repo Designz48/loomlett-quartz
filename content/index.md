@@ -21,7 +21,7 @@ def greet():
 <p>Hey there! I'm DesignzByOJ (OJ), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).</p>
 I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become documenting parts of my life to help others be digitally independent.
 
-This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D
+This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D (if images don't show, see them on dribbble.com/designzbyoj).
 
 <img width="120" height="120" alt="DesignzByOJ Logo" src="logo.webp"></img>
     <img width="120" height="80" alt="Desk setup" src="Frame.png"></img>
