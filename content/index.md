@@ -19,7 +19,10 @@ def greet():
 ---
 
 <h1> About author </h1>
-<p>Hey there! I'm DesignzByOJ (OJ), a graphic designer by study and self-taught to be a React dev and 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).</p>
+<p>Hey there! I'm DesignzByOJ (OJ), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).</p>
+I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become documenting parts of my life to help others be digitally independent.
+
+This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D
 
 <img width="120" height="120" alt="DesignzByOJ Logo" src="logo.png"></img>
     <img width="120" height="80" alt="Desk setup" src="desk.png"></img>
@@ -32,3 +35,11 @@ def greet():
 
 <p>Archaic, ElderwoodsTea, Loomlett (here), Rounded Bliss Obsidian Theme, ... (links coming soon)</p>
 <h4>Favorite colors</h4>
+
+> - [!Write below]
+> - Comment by emailing me designzbyoj@gmail.com 
+
+
+
+
+
