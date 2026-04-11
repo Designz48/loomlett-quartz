@@ -18,10 +18,15 @@ def greet():
 ---
 
 <h1> About author </h1>
-<p>Hey there! I'm DesignzByOJ (OJ), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).</p>
-I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become documenting parts of my life to help others be digitally independent.
+#### Hey there! I'm DesignzByOJ (OJ), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
+I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become **documenting parts of my life to help others be digitally independent.**
 
-This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D (if images don't show, see them on dribbble.com/designzbyoj).
+*This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D (if images don't show, see them on dribbble.com/designzbyoj).*
+
+## Goals to introspect on
++ Circadian rhythm - how people have less or more than 24hr clocks
++ Types of introverts (high vs low) and extroverts (shy vs stereotypical)
++ ...?
 
 <img width="120" height="120" alt="DesignzByOJ Logo" src="logo.webp"></img>
     <img width="120" height="80" alt="Desk setup" src="Frame.png"></img>
