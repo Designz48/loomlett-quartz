@@ -6,7 +6,7 @@ tags:
 date: 2024-01-02
 time: 2 min
 ---
-## Solopreneurs shouldn’t always be filled to the brim.
+ ## Solopreneurs shouldn’t always be filled to the brim.
 ![](https://miro.medium.com/v2/resize:fit:700/1*GVWFb98HAsXSgx_stXU_WA.jpeg)
 
 Photo by [Mikael Blomkvist](https://www.pexels.com/@mikael-blomkvist/) from [Pexels](https://www.pexels.com/photo/beautiful-woman-in-green-jacket-sitting-on-bed-with-laptop-4153415/)

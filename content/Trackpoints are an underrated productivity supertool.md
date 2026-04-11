@@ -1,5 +1,5 @@
 ---
-title: Trackpoints are an underrated productivity supertool
+title: 4-10-26 Trackpoints are an underrated productivity supertool
 draft: false
 tags:
   - thinkpad
