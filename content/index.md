@@ -15,7 +15,6 @@ date: 2025-12-13
 def greet():
     print("A friendly place where 3D, color theory, design and more come together to form the messiest digital garden you might see by interweaving <i>form</i> and <i>function</i> into topics.")<
 ```
-<img height="280" width="500" src="desk-sunrise.png"></img>
 ---
 
 <h1> About author </h1>
@@ -24,11 +23,11 @@ I started off "Helping you build a routine that energizes- not exhausts 🗲", b
 
 This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D
 
-<img width="120" height="120" alt="DesignzByOJ Logo" src="logo.png"></img>
-    <img width="120" height="80" alt="Desk setup" src="desk.png"></img>
-    <img width="120" height="80" alt="Cycles blender render snowman" src="snowman.png"></img>
+<img width="120" height="120" alt="DesignzByOJ Logo" src="logo.webp"></img>
+    <img width="120" height="80" alt="Desk setup" src="Frame.png"></img>
+    <img width="130" height="140" alt="Jumper apparel print design" src="JUMPER-appar.png"></img>
     <img width="100" height="80" alt="Eevee blender render saturn" src="saturn.jpg"></img>
-<img width="100" height="80" alt="Eevee blender render snowman" src="saturn.jpg"></img>
+<img width="160" height="100" alt="Thinkpad modeling in blender" src="workflow.jpg"></img>
 
 
 <h3>What I'm building</h3>
