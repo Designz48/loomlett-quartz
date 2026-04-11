@@ -18,7 +18,7 @@ def greet():
 ---
 
 # About author
-Hey there! I'm DesignzByOJ (OJ), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
+Hey there! I'm DesignzByOJ (Olivia), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
 I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become **documenting parts of my life to help others be digitally independent.**
 
 *This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D (if images don't show, see them on https://dribbble.com/designzbyoj).*
@@ -27,13 +27,11 @@ I started off "Helping you build a routine that energizes- not exhausts 🗲", b
 + Circadian rhythm - how people have less or more than 24hr clocks
 + Types of introverts (high vs low) and extroverts (shy vs stereotypical)
 + ...?
-
-<img width="120" height="120" alt="DesignzByOJ Logo" src="logo.webp"></img>
-    <img width="120" height="80" alt="Desk setup" src="Frame.png"></img>
-    <img width="130" height="140" alt="Jumper apparel print design" src="JUMPER-appar.png"></img>
-    <img width="100" height="80" alt="Eevee blender render saturn" src="saturn.jpg"></img>
-<img width="160" height="100" alt="Thinkpad modeling in blender" src="workflow.jpg"></img>
-
+![[logo.webp]]
+![[Frame.png]]
+    ![[JUMPER-appar.png]]
+    ![[saturn.jpg]]
+    ![[workflow.jpg]]
 
 # What I'm building
 
