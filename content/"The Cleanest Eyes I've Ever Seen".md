@@ -1,5 +1,5 @@
 ---
-title: "\"The Cleanest Eyes I've Ever Seen\""
+title: 🌱 "The Cleanest Eyes I've Ever Seen"
 draft: false
 tags:
   - experiences

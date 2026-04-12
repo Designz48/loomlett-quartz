@@ -1,5 +1,5 @@
 ---
-title: 4-5-26 Publishing on Quartz — Simple & Effective
+title: 🌱 4-5-26 Publishing on Quartz — Simple & Effective
 draft: false
 tags:
   - dev

@@ -1,5 +1,5 @@
 ---
-title: Early Computing
+title: 🌱 Early Computing
 draft: false
 tags:
   - updateme

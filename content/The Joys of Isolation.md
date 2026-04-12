@@ -1,5 +1,5 @@
 ---
-title: 11-7-23 The Joys of Isolation
+title: 🌱 11-7-23 The Joys of Isolation
 draft: false
 tags:
   - example-tag

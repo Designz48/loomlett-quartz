@@ -21,21 +21,21 @@ def greet():
 Thank you for stopping by! I hope my articles from the past and future are meaningful to you in some way 😄 
 > [[Loomlett X post]]
 
+---
 # About author
 Hey there! I'm DesignzByOJ (Olivia), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
 I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become **documenting parts of my life to help others be digitally independent.**
 
->> [[Projects I'm working on]], [[Music]], [[Photography]], [[Why I started this]]
+>> [[⚪ Projects I'm working on]], [[⚪ Music]], [[⚪ Photography]], [[(˶˃ ᵕ ˂˶) Why I started this]]
 
 *This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D (if images don't show, see them on https://dribbble.com/designzbyoj).*
 
-### Updates
-Every day or so I write an update with changes I've made and the articles I wrote that day, it's a way to help me keep up-to-date n' organized. Here's the [[complete list of updates]].
+---
+## Updates
+Every day or so I write an update with changes I've made and the articles I wrote that day, it's a way to help me keep up-to-date n' organized. Here's the [[⚪ complete list of updates]].
 > **Recent Update**:  [[Update 4-12-26]]
 
-### Pinned Articles
-> [[A Moment Lost in Time]] - 
-
+---
 ## Goals to write n' introspect on
 + Circadian rhythm - how people have less or more than 24hr clocks
 + Types of introverts (high vs low) and extroverts (shy vs stereotypical)

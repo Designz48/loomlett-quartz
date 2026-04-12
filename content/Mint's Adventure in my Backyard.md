@@ -1,5 +1,5 @@
 ---
-title: Mints Adventure in my Backyard
+title: 🌱 Mints Adventure in my Backyard
 draft: false
 tags:
   - example-tag

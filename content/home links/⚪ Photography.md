@@ -1,5 +1,5 @@
 ---
-title: Photography
+title: ⚪ Photography
 draft: false
 tags:
   - updateme

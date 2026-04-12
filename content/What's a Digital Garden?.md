@@ -1,5 +1,5 @@
 ---
-title: What's a Digital Garden?
+title: 🌱 What's a Digital Garden?
 draft: false
 tags:
   - updateme

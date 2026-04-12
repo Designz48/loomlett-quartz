@@ -1,5 +1,5 @@
 ---
-title: 4-12-26 Adapt or Drown - Remembering My Goal
+title: 🌱 4-12-26 Adapt or Drown - Remembering My Goal
 draft: false
 tags:
   - design

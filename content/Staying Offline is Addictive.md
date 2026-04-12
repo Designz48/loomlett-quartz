@@ -1,5 +1,5 @@
 ---
-title: 11-14-25 Staying Offline is Addictive
+title: 🌱 11-14-25 Staying Offline is Addictive
 draft: false
 tags:
   - example-tag

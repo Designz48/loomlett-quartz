@@ -1,5 +1,5 @@
 ---
-title: Why I started this
+title: (˶˃ ᵕ ˂˶) Why I started this
 draft: false
 tags:
   - quartz

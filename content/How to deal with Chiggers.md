@@ -1,5 +1,5 @@
 ---
-title: How to deal with Chiggers
+title: 🌱 How to deal with Chiggers
 draft: false
 tags:
   - health
