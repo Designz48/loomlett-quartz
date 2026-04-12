@@ -2,9 +2,8 @@
 title: Update 4-12-26
 draft: false
 tags:
-  - example-tag
-date:
-time:
+date: 2026-04-12
+time: 2 min
 ---
 > **Last update**: [[Update 4-11-26]]
 
@@ -16,3 +15,5 @@ When starting anything interesting I suddenly find focus and with that inspirati
 
 ### Site dev
 I thought I was so good at remember commands until I jinxed it today. To check how Loomlett looked on localhost I did "npx build --serve" yet I got a bunch of errors. Then, when looking through old commands, I realized I forgot the "quartz" part, "npx quartz build --serve" fortunately that didn't take me all day to figure out, this time anyhow!
+
+Last thought, does reading articles look alright? I'm finding small errors in layout, also the typeface needs to be changed for each subheading, and I'm planning on making background transparent w/ a wallpaper so that it isn't black on light (not very nice on the eyes). I've also added folders to put articles from each year, definitions used in articles, and another thing to make things easier to navigate. Fortunately I did it now rather than later 😵‍💫

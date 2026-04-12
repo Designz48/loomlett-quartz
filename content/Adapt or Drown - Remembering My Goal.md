@@ -9,6 +9,7 @@ date: 2026-04-12
 time: 8 min
 ---
 *AI AI AI*
+
 Having popped out of the blue seemingly after 2020, starting with Will Smith eating spaghetti in a distorted fashion, it went from people thinking, *"This could never replace my job,"* to then increasing allure and power over people, in a very short few years, in every aspect: productivity, dating, and work. Even those older have felt the pressure I realized when I recieved this email:
 
 > "[https://shumer.dev/something-big-is-happening](https://shumer.dev/something-big-is-happening) This article is saying "Get ready, 'cause here it is. Adapt or drown."" *(Feel free to read it before continuing)*

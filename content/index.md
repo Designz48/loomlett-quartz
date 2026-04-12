@@ -31,7 +31,7 @@ I started off "Helping you build a routine that energizes- not exhausts 🗲", b
 
 ### Updates
 Every day or so I write an update with changes I've made and the articles I wrote that day, it's a way to help me keep up-to-date n' organized. Here's the [[complete list of updates]].
-> **Recent Update**: [[Update 4-11-26]]
+> **Recent Update**: [[Update 4-11-26]] & [[Update 4-12-26]]
 
 ### Pinned Articles
 > [[A Moment Lost in Time]] - 
