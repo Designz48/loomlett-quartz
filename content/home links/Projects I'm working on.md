@@ -1,3 +1,11 @@
+---
+title: Projects I'm working on
+draft: false
+tags:
+  - updateme
+date:
+time:
+---
 While I'm a 3D Designer, I also like to dabble in coding projects to learn Python, HTML, and JavaScript from as well as just to try new things. Since I was younger, I could never draw chibi simple characters like I wanted, but when I drew realistic people, somehow I could (link article to pictures). It's the quality of **visualizing exactly what I want to do** that I've taken to other aspects of my life (cooking, designing, coding, etc.).
 ## What I'm building
 

@@ -7,7 +7,7 @@ time: 2 min
 ---
 > **Last update**: [[Update 4-11-26]]
 
-> **Wrote**: [[Mint's Adventure in my Backyard]], [[Green Tea VS Yaupon]], [[How to deal with Chiggers]]
+> **Wrote**: [["The Cleanest Eyes I've Ever Seen"]]
 
 Today I had so many ideas.
 
