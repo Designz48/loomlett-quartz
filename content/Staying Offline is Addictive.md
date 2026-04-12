@@ -1,10 +1,14 @@
 ---
-title: Staying Offline is Addictive
+title: 11-14-25 Staying Offline is Addictive
 draft: false
 tags:
   - example-tag
 time: 5 min
+date: 2025-11-14
 ---
+![](https://miro.medium.com/v2/resize:fit:700/1*Ej3_utpQ__2MbaoudG8o1A.jpeg)
+
+I wish the other image dimension was available… anyway these are my trees *(notes from Medium on images which I'll change once I have them imported correctly)*
 ## Never would have thought I’d have trouble keeping up-to-date online
 Kids, teens, adults, elderly all have some kind of relationship with social media now, right? It’s significant for keeping in touch when family move states or even countries away. In fact, who don’t you know doesn’t have social media and why?
 

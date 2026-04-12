@@ -3,6 +3,7 @@ title: 4-10-26 Trackpoints are an underrated productivity supertool
 draft: false
 tags:
   - thinkpad
+  - updateme
 date: 2026-04-10
 time:
 ---

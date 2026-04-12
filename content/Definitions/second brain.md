@@ -1,0 +1,2 @@
+Using the computer, physical things (notebook), and more as an extension to the brain so that in case we forget, our second brain won't (as long as server's are up and hard drives don't die). Having a Second Brain also enables our memory to remember and process information written better, however, writing by hand will always help to remember things better.
+	*[[zettelkastin]] method started with paper.*
