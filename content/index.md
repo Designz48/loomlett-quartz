@@ -16,7 +16,7 @@ def greet():
     print("A friendly place where 3D, color theory, design and more come together to form the messiest digital garden you might see by interweaving <i>form</i> and <i>function</i> into topics.")<
 ```
 ---
-**From around 2022 I had an idea**, as a 3D printing enthusiast I wanted to build a brand to create any design I wanted and bring it to life. However I had a problem, I was just getting down with high school remotely and didn't know much about business. While I tried some side hustles, the demands and increasing complexity of 3D printing became more and more through the years. In addition to complications with having sold physical products on Etsy/Ebay, I decided that the better thing was to take my brand and make it into a digital garden- **combining everything I've thought and done as a way to share with others.**
+**From around 2022 I had an idea**, as a 3D printing enthusiast I wanted to build a brand to create any design I wanted and bring it to life. However I had a problem, I was just getting done with high school remotely and didn't know much about business. While I tried some side hustles, the demands and increasing complexity of 3D printing became more and more through the years. In addition to complications with having sold physical products on Etsy/Ebay, I decided that the better thing was to take my brand and make it into a digital garden- **combining everything I've thought and done as a way to share with others.**
 
 Thank you for stopping by! I hope my articles from the past and future are meaningful to you in some way 😄 
 > [[Loomlett X post]]

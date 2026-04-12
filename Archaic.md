@@ -1,0 +1,9 @@
+> https://archaic-cb904f1e.base44.app/home
+
+***Create bento-style memory collections with photos, videos, and music. Share, like, comment, and save your favorite nostalgic moments.***
+
+Archaic is a nostalgic social sharing platform that celebrates life before the digital age consumed everything. We believe memories are more than just data—they're stories, feelings, and moments that deserve to be preserved with care and authenticity. Create beautiful bento-style collections of your cherished memories with photos, videos, and music. Share them with the world, connect with others through their nostalgic journeys, and keep the spirit of simpler times alive. Every memory matters, every moment counts.
+
+Made with Base44 (AI) this is an idea I wanted to try out before building it from scratch, however there's not much traction on it, so I think I'll keep it on Base44. Otherwise I think now is the perfect time to try preserving memories of what's been memorable on the internet considering that sites like TheWayBack Machine and social media aren't becoming reliable sources. Not only are modern ideas important, but photos and video of pre-internet times that could be at risk of losing. However, this platform is just another server, which could be taken down by hack or lack of resources of some sort, so perhaps it's better to either keep them on hard drives, in our heart, or let them go.
+
+If you decide to try out Archaic though, it first makes you create an account *(unfortunately, tried otherwise)* and then you can upload photo, video, music and describe it! While I've uploaded some, I suppose Loomlett is my own way of doing Archaic.
