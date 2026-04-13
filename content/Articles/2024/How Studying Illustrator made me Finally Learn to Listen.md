@@ -1,8 +1,8 @@
 ---
-title: 1-9-24 How Studying Illustrator made me Finally Learn to Listen
+title: 🌱 1-9-24 How Studying Illustrator made me Finally Learn to Listen
 draft: false
 tags:
-  - example-tag
+  - design
 date: 2024-01-09
 time: 5 min
 ---
@@ -145,5 +145,3 @@ I still have 3 more projects to do in order to finish my Adobe Illustrator cours
 _But I’m confident that with learning a little more every day,_
 
 _I’ll be a better listener to direction as I move into Adobe Photoshop &_ **_onward!_**
-
-**_Getting your routine perfect can be tricky. Catch the latest resources & insights in my_** [**_bite-sized email_**](https://designzbyoj.com/) **_to make your routine energizing — not exhausting,_** [**_here._**](https://designzbyoj.com/)

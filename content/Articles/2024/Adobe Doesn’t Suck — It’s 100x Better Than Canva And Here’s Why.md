@@ -1,8 +1,8 @@
 ---
-title: 2-9-24 Adobe Doesn’t Suck — It’s 100x Better Than Canva And Here’s Why
+title: 🌱 2-9-24 Adobe Doesn’t Suck — It’s 100x Better Than Canva And Here’s Why
 draft: false
 tags:
-  - example-tag
+  - design
 date: 2024-02-09
 time: 1 min
 ---

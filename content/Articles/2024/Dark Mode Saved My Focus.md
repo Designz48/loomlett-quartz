@@ -1,8 +1,8 @@
 ---
-title: 1-29-24 Dark Mode Saved My Focus
+title: 🌱 1-29-24 Dark Mode Saved My Focus
 draft: false
 tags:
-  - example-tag
+  - health
 date: 2024-01-29
 time: 6 min
 ---
@@ -46,8 +46,6 @@ I wondered how this was any better than my gorgeous, white screen.
 The thing is,
 
 ==I didn’t realize just how much it== ==_would_== ==help.==
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/0*CONSrmDtqMT1ppYe.png)
 
@@ -185,8 +183,6 @@ I like to use dark-mode right after I wake up, and then switch to white-mode as 
 > but you do you!
 
 ## Why use dark mode for your workflow?
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/0*ePSQz8MfOjV3F0vB.png)
 

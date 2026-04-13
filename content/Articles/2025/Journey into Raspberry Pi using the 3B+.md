@@ -3,6 +3,8 @@ title: 10-5-25 Journey into Raspberry Pi using the 3B+
 draft: false
 tags:
   - updateme
+  - tech
+  - linux
 date: 2025-10-05
 time:
 ---

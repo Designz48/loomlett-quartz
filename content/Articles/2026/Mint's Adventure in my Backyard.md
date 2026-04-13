@@ -2,7 +2,7 @@
 title: 🌱 Mints Adventure in my Backyard
 draft: false
 tags:
-  - example-tag
+  - experiences
 date:
 time:
 ---

@@ -1,0 +1,1 @@
+> "aid digestion, curb your appetite, improve your memory, and more." - [WebMD](https://www.webmd.com/diet/ss/slideshow-health-benefits-peppermint)

@@ -1,8 +1,8 @@
 ---
-title: 12-28-23 Diamonds in the Rough
+title: 🌱 12-28-23 Diamonds in the Rough
 draft: false
 tags:
-  - example-tag
+  - writing
 date: 2023-12-28
 time: 1 min
 ---
@@ -25,7 +25,3 @@ Not only do we have these **_diamonds_** in written form, but it becomes organ
 Writing is like manually sorting our brain, without having to dig in there to sort it ourselves (not like we humanly could anyway).
 
 Some people call this journaling, others _freewriting…_
-
-[
-
-](https://medium.com/@designzbyoj/your-brain-is-the-most-organized-youll-ever-be-d83c6a9f2fc0?source=post_page-----879bfd11e477---------------------------------------)

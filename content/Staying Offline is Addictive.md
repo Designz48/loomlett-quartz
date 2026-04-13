@@ -2,7 +2,7 @@
 title: 🌱 11-14-25 Staying Offline is Addictive
 draft: false
 tags:
-  - example-tag
+  - offline
 time: 5 min
 date: 2025-11-14
 ---

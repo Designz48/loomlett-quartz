@@ -1,13 +1,12 @@
 ---
-title: 7-24-23 Accept your immaturity — Moving Forward
+title: 🌱 7-24-23 Accept your immaturity — Moving Forward
 draft: false
 tags:
+  - design
 date: 2023-07-24
 time: 4 min
 ---
 _Graphic Designers are always scaling, but what about us who are just starting?_
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*F5FNXdNT5SIbImG9cajk4A.jpeg)
 
@@ -57,8 +56,6 @@ I’ve read in many many online resources for side hustles that,
 ‘If you don’t use THIS resource, you’re going to fail,’
 
 in reality- that resource, *side-hustle course, or membership, costs $30 a month!
-
-[](https://medium.com/write?source=promotion_paragraph---post_body_banner_jsw_scribble--b9b571314ed1---------------------------------------)
 
 Instead of falling into this trap, I simply think of **priorities**:
 
@@ -113,8 +110,6 @@ So the process starts all over again…
 **_Each of us have a journey that consists of transitions full of change and developments. If you like my journey please leave a follow! And come back next week to read a new story from me._**
 
 *Not that these ‘side hustle’ resources aren’t bad, but relying ONLY on these does not give experience. But _acting_ on a game plan will.
-
-[_All Links_](https://designzbyoj.com/)
 
 [ Photo by mtweb: [https://www.pexels.com/photo/woman-sitting-on-rock-front-of-mountain-241322/](https://www.pexels.com/photo/woman-sitting-on-rock-front-of-mountain-241322/) ]
 

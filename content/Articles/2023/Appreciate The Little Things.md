@@ -1,8 +1,8 @@
 ---
-title: 12-21-23 Appreciate The Little Things
+title: 🌱 12-21-23 Appreciate The Little Things
 draft: false
 tags:
-  - example-tag
+  - nature
 date: 2023-12-21
 time:
 ---

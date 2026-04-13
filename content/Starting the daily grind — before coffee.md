@@ -2,13 +2,11 @@
 title: 🌱 7-29-23 Starting the daily grind — before coffee
 draft: false
 tags:
-  - example-tag
+  - health
 date: 2023-07-29
 time: 4 min
 ---
 First thing in the morning get a cup of… scratch that. Just take action.
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*vf2UyuqIjwehZlfkpQvjng.jpeg)
 
@@ -49,8 +47,6 @@ What was my problem with fitting these activities in? It all started with how I 
 
 Take action ahead of time to know _what_ you need to do, _how_ you need to do it, and **_following through_**.
 
-[](https://medium.com/write?source=promotion_paragraph---post_body_banner_better_place_blocks--c992dcbd393b---------------------------------------)
-
 They’re simple steps, but actually doing it requires consistency- lots of consistency.
 
 When we get our coffee each morning we’ve developed a consistent routine every day of getting it **first-thing** without doing anything else — and that’s why we’ve become needy for it.
@@ -80,8 +76,6 @@ Coffee is only a stimulant, use _action_ to fuel your day to achieve better pr
 _Hope you enjoyed this read from me, this has been a 2 year process for myself to figure out. But realizing how I can keep better energy management has been worth it! I hope this has been helpful for you too._
 
 **_Each of us have a journey that consists of transitions full of change and developments. If you like my journey please leave a follow! And come back next week to read a new story from me._**
-
-[_All Links_](https://designzbyoj.com/)
 
 Walle, (May 15, 2020.) _When is the best time to drink coffee?_ [https://medium.com/@arinbasu/you-can-use-footnotes-thus-babus%C2%B9-6c485c4eff1e](https://www.healthline.com/nutrition/best-time-to-drink-coffee)
 

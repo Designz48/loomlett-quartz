@@ -1,0 +1,1 @@
+configuration files for hyprland and other [[WM]]'s.

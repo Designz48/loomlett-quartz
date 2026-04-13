@@ -1,11 +1,14 @@
 ---
-title: 2-4-24 How the 3 Little Pigs can Elevate Your Designs
+title: 🌱 2-4-24 How the 3 Little Pigs can Elevate Your Designs
 draft: false
 tags:
-  - example-tag
+  - design
 date: 2024-02-04
 time: 4 min
 ---
+![](https://miro.medium.com/v2/resize:fit:6000/1*7CAW-k2KFULWOLDqclEA_A.png)
+
+Image by [Vanessa Cardui](https://www.pexels.com/@vanessa-cardui-624975768/) from [Pexels](https://www.pexels.com/photo/little-pigs-on-a-farm-18831697/) | edited by the author
 ## Just take a look at threes.
 ### 1, 2, 3
 
@@ -33,8 +36,6 @@ From [Adobe Stock](https://stock.adobe.com/search?k=%22two+stars%22&asset_id=93
 
 Take these 5 lines of text.
 
-Press enter or click to view image in full size
-
 ![](https://miro.medium.com/v2/resize:fit:700/1*CUJlqzA0fYcW7vzPRnZuXg.png)
 
 Image credit to author.
@@ -42,8 +43,6 @@ Image credit to author.
 How do you read between them? **_Easy right?_**
 
 What if I introduced to you 3 lines of text, which lines do you like better?
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*npdUdg2APDpupUF7PbWnlw.png)
 
@@ -95,8 +94,6 @@ When designing a graphic, we have the whole artboard at our finger tips — so b
 
 Used for organizing & highlighting information at a glance, it helps condense copy without making it look clustered on a page. This can be further made to stand out with a lot of linespacing.
 
-Press enter or click to view image in full size
-
 ![](https://miro.medium.com/v2/resize:fit:700/1*8YDg0kmUFWBfmVfHM9ftWA.png)
 
 Image by [Freddy](https://dribbble.com/bonfantife) from [Dribble](https://dribbble.com/shots/17746217-Flawless-Studio-Slide-Manifesto)
@@ -104,8 +101,6 @@ Image by [Freddy](https://dribbble.com/bonfantife) from [Dribble](https://dri
 ### 2. ==Headings==
 
 Gives a clear hierarchy of information, we can note points of importance whether we give a small paragraph under it or not.
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*KmpLbShx8LxHtYpdCfq_Jw.jpeg)
 
@@ -123,7 +118,7 @@ Most importantly, using groups of 3 gives emphasis on **_major components_**, 
 
 By using **bullet points**, **headings**, and **placement** — along with any other **_creative way that you can figure out_**, you can make your designs look complete & stand out from the rest!
 
-As we’ve seen, ==using groups of 3 is a great asset in graphic design because it gives a clear== ==**_hierarchy_**====,== ==**_organizes text_**====, and makes== ==**_information easier to remember_**====.==
+As we’ve seen, ==using groups of 3 is a great asset in graphic design because it gives a clear== ==**_hierarchy_**====, ==**_organizes text_**====, and makes ==**_information easier to remember_**====.
 
 By incorporating this grouping in your designs, you’re sure to make an impact and keep your graphics **_rock n’ rolling!_**
 

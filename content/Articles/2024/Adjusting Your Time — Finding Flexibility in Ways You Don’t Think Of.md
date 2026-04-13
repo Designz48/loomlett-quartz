@@ -1,8 +1,8 @@
 ---
-title: 2-24-24 Adjusting Your Time — Finding Flexibility in Ways You Don’t Think Of
+title: 🌱 2-24-24 Adjusting Your Time — Finding Flexibility in Ways You Don’t Think Of
 draft: false
 tags:
-  - example-tag
+  - timetracking
 date: 2024-02-24
 time: 3 min
 ---
@@ -95,7 +95,3 @@ After all, we can’t work 24/7!
 (If you can though, please lend me your tips :) )
 
 Overall, adjusting your time means ==making it better for you to get things done.== Even if there are only 24 hours in a day — by **being flexible**, you can set realistic deadlines & feel better about yourself!
-
-**_Liked this article? You’ll enjoy my newsletter all about routine building, which features bite-sized strategies on managing your routine as a solopreneur._**
-
-[**_Join my community of 100+ people building a better routine_**](https://designzbyoj.com/)**_!_**

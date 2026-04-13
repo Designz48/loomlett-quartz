@@ -1,8 +1,8 @@
 ---
-title: 2-12-24 Why You Need to Focus on Long-Term Progress
+title: 🌱 2-12-24 Why You Need to Focus on Long-Term Progress
 draft: false
 tags:
-  - example-tag
+  - timetracking
 date: 2024-02-12
 time: 4 min
 ---

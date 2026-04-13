@@ -1,14 +1,14 @@
 ---
-title: 2-8-24 Canva sucks — Adobe rules supreme and here’s why
+title: 🌱 2-8-24 Canva sucks — Adobe rules supreme and here’s why
 draft: false
 tags:
-  - example-tag
+  - design
 date: 2024-02-08
 time: 6 min
 ---
 ![](https://miro.medium.com/v2/resize:fit:700/1*EQPzSUYZpzsGDH3wxV1Z5w.png)
 
-Ifyou’re an aspiring designer you’ve heard that making **_“the complicated simple”_** is one of the main goals of design — and something that we often fail about doing in the beginning.
+If you’re an aspiring designer you’ve heard that making **_“the complicated simple”_** is one of the main goals of design — and something that we often fail about doing in the beginning.
 
 One of these ways of simplifying our work is through the little software called Canva. An incredible tool you probably use to get a design simplified in seconds, right?
 
@@ -84,8 +84,6 @@ Sure maybe not, but look at all the options you can choose!
 
 You have the option to **Quick Export** if you’re in a rush, or go through the **Export As** process if you need something precise.
 
-Press enter or click to view image in full size
-
 ![](https://miro.medium.com/v2/resize:fit:700/1*rRhOr8kEuHBkxChTIKX7Tw.png)
 
 Image by author sharing the **Export As** options.
@@ -144,12 +142,6 @@ Also an important thing to note about Adobe products, is **you can access them 
 Whereas Canva still lags if you’re disconnected from the internet for **a literal second** (coming from personal experience.)
 
 ## You do you
-
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*rb6RBArtOk2rCL8TrqJAMw.jpeg)
-
-Photo by [Anthony Tran](https://unsplash.com/@anthonytran?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-woman-holds-her-hands-over-her-face-i-ePv9Dxg7U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 Even if you’re still stuck on using Canva, that’s ok.
 

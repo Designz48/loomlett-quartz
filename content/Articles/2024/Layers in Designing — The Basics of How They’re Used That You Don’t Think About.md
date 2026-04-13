@@ -1,8 +1,8 @@
 ---
-title: 2-15-24 Layers in Designing
+title: 🌱 2-15-24 Layers in Designing
 draft: false
 tags:
-  - example-tag
+  - design
 date: 2024-02-15
 time:
 ---
@@ -34,8 +34,6 @@ Interesting right?
 But while the dates are unclear on whether xRES or Photoshop were the first to use layers in a digital medium, there is someone who was the first in a **_physical medium_** to use them in photography editing.
 
 ## Layers in History — its first use in Photography
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*nplJCRspD22YnL6J0LCcyQ.jpeg)
 
@@ -91,15 +89,11 @@ From seeing some examples on Dribble, there are endless both simple & complicate
 
 From adding small details, grouping them, and then arranging them in the background for texture:
 
-Press enter or click to view image in full size
-
 ![](https://miro.medium.com/v2/resize:fit:700/1*kGBVglKMY0U13VFmyk496g.png)
 
 Image by [Erikas](https://dribbble.com/erikaserik) from [Dribble](https://dribbble.com/shots/23600459-Mill-Valley-Music-Festival-Posters)
 
 Or this clever use of shapes to create a minimalist style — and bringing shapes up front to appear as if behind an object.
-
-Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*Dm8XfnY2E426evyB7qal7w.png)
 
@@ -116,5 +110,3 @@ Not only does getting a gist of both spectrums help to troubleshoot easier, but 
 ==Also, maybe knowing this helps you to have a little patience before throwing your computer out the window when Photoshop suddenly crashes (it helped me).==
 
 **_I’m OJ, a college student studying remotely for my Graphic Design degree. I research topics for my own curiosity in design to share with others!_**
-
-**_Also, I’m a routine management enthusiast who enjoys covering topics on better scheduling our day. If you like this, you can_** [**_subscribe to my newsletter here_**](https://designzbyoj.com/)**_!_**

@@ -1,12 +1,12 @@
 ---
-title: 1-2-24 3 ways you can get ur...
+title: 🌱 1-2-24 3 ways you can get ur...
 draft: false
 tags:
-  - example-tag
+  - timetracking
 date: 2024-01-02
 time: 2 min
 ---
- ## Solopreneurs shouldn’t always be filled to the brim.
+ # Solopreneurs shouldn’t always be filled to the brim.
 ![](https://miro.medium.com/v2/resize:fit:700/1*GVWFb98HAsXSgx_stXU_WA.jpeg)
 
 Photo by [Mikael Blomkvist](https://www.pexels.com/@mikael-blomkvist/) from [Pexels](https://www.pexels.com/photo/beautiful-woman-in-green-jacket-sitting-on-bed-with-laptop-4153415/)
@@ -131,5 +131,3 @@ Try incorporating small habits today, start using a system in Notion to help —
 I hope this helps you to understand what steps you can take **_right now_**, whether you’ve been at your biz for a while or have just started.
 
 Having said this from personal experience, your choices rely on you! Each of us has our routine & activity to organize, so everyone’s situation is different.
-
-**If you enjoyed this & want more insights on how to build your routine as a solopreneur, my** [**newsletter**](https://designzbyoj.carrd.co/) **is waiting to help _make your routine more energizing — not exhausting._**

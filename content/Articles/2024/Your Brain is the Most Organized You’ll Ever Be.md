@@ -1,8 +1,8 @@
 ---
-title: 1-16-2024 Your Brain is the Most Organized You’ll Ever Be
+title: 🌱 1-16-2024 Your Brain is the Most Organized You’ll Ever Be
 draft: false
 tags:
-  - example-tag
+  - second-brain
 date: 2024-01-16
 time: 4 min
 ---
@@ -127,7 +127,3 @@ or even better, _journal your day._
 Your brain is the most organized you’ll ever be,
 
 ## but you have to help it out for it to help you in return!
-
-Building a routine according to your needs can make getting work done much easier. I would discuss it in-depth, but that’s what my [newsletter](https://designzbyoj.carrd.co/) is for!
-
-[_Subscribe here_](https://designzbyoj.carrd.co/) _to catch the latest gist on how to make your routine energizing, not exhausting — helping you to order your day right!_

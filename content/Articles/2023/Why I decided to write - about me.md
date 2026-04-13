@@ -1,7 +1,8 @@
 ---
-title: 7-21-23 Why I decided to write - about me
+title: 🌱 7-21-23 Why I decided to write - about me
 draft: false
 tags:
+  - experiences
 date: 2023-07-21
 time: 2 min
 ---
@@ -34,8 +35,7 @@ So…
 
 Are you a Graphic Designer too? (AKA visual storyteller) or someone different? I’d love to know who’s reading this, so please comment!
 
-Subscribe to the Medium newsletter
-— — — — — — — — — — — — — — — — — — —
+---
 
 Now: Why do I like to Write?
 
