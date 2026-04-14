@@ -1,3 +1,3 @@
 + Founder of Linux
 	+ Worked w/ GNU to make complete OS
-+ Wrote "...Fun" in 200~
++ Wrote "Just for Fun" in 200~
