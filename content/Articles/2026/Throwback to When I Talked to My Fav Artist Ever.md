@@ -1,6 +1,6 @@
 ---
 title: Throwback to When I Talked to My Fav Artist Ever
-draft: false
+draft: true
 tags:
   - updateme
 date:

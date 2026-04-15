@@ -1,5 +1,5 @@
 ---
-title: 🌱 12-13-23 Deep Work vs. Light Work
+title: 🌱 Deep Work vs. Light Work
 draft: false
 tags:
   - timetracking
@@ -12,7 +12,7 @@ _“that was quick!”_
 
 As solopreneurs, time management is **_super_** important.
 
-==Without having a way to track time, our tasks can get done longer than we want them to, making us fall behind on our schedule.==
+Without having a way to track time, our tasks can get done longer than we want them to, making us fall behind on our schedule.
 
 A great way to organize our time & energy is into blocks called **_deep work_** & **_light work._**
 
@@ -40,7 +40,7 @@ I realized, too, that I wasn’t the only one thinking this.
 
 ### 1. Go based on your brain
 
-==This article by the== ==[ShortForm](https://www.shortform.com/blog/how-to-schedule-your-day-2/)====, gives ways of scheduling around your brain’s peak energy levels, and there seems to be some truth to it.==
+This article by the [ShortForm](https://www.shortform.com/blog/how-to-schedule-your-day-2/), gives ways of scheduling around your brain’s peak energy levels, and there seems to be some truth to it.
 
 We all have peak performance times when we can handle so much, have the need to refuel, or feel like we’re on top of the world!
 
@@ -66,7 +66,7 @@ Well, going back to the [Shortform](https://www.shortform.com/blog/how-to-sched
 > 
 > Extracting information from these networks requires considerable amounts of oxygen and glucose, and as these chemical levels move up and down throughout the day, the energy you have to be productive also fluctuates.”
 
-==Ever thought that you were weird to think of== ==**_washing your socks_**== ==during a meeting?==
+Ever thought that you were weird to think of **_washing your socks_** during a meeting?
 
 Most likely, you may have been boggled down with too much information at that time, and needed a breather.
 
@@ -92,11 +92,11 @@ And if you want a really in-depth article to help managing a 9–5 routine or if
 
 Many people see multitasking as non-negotiable when it comes to getting all they need to done.
 
-==But in all reality, it actually== ==**_undermines_**== ==productivity.==
+But in all reality, it actually **_undermines_** productivity.
 
 And here’s the reasoning why.
 
-==When we switch from one task to another, we’re constantly putting our attention on different things.==
+When we switch from one task to another, we’re constantly putting our attention on different things.
 
 We’re needing to juggle around different thoughts from different categories that **_we can’t organize it into 1 main task,_**
 
@@ -104,7 +104,7 @@ and this actually causes an increase of time taken to finish **_even just 1 of 
 
 This is why we hear of different gurus talking about _deep work-_ the zone of being fully focused on one task for between 1–2 hours.
 
-==While these gurus are right about something, there’s a better name to call this zone- an== ==**_Ultradian Sprint._**==
+While these gurus are right about something, there’s a better name to call this zone- an **_Ultradian Sprint._**
 
 This time period is where you spend time really focusing, and then taking a period of rest- and I mean **_really rest_**, not just more multitasking.
 
@@ -226,7 +226,7 @@ This differs depending on everyone, so my best tip is to have your big meals at 
 
 With the right routine, we can have the **_right_** energy levels at the **_right_** time to get the **_right_** things done.
 
-==If we do the wrong thing at the wrong time — we will have messed up our day & needed to start over again the next.==
+If we do the wrong thing at the wrong time — we will have messed up our day & needed to start over again the next.
 
 **But don’t let this discourage you from progress!**
 

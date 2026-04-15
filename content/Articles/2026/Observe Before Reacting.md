@@ -1,5 +1,5 @@
 ---
-title: Observe Before Reacting
+title: 🌱 Observe Before Reacting
 draft: true
 tags:
   - experiences

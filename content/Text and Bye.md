@@ -18,7 +18,9 @@ The reason I said "It read something like..." is because it hasn't just been fro
 These questions come in my mind, but it's easy to brush them aside because of something I learned in middle school.
 
 ---
-**Sitting alone** on the sidewalk with my back against the building, I saw L, D, A, B, and K on the other side of the short field laughing and talking away. As a 9 yr old who never liked to be around the talkative girls, instead choosing the boys who would talk of Minecraft and play tag with other another, now at 14 years old I started thinking the same thoughts as I had at 9. Even though at 12, when beginning middle school, I had decided against befriending those boys again because **1.** I wanted to grow up, and **2.** there was no playground set. Yes I might just be tempted to play tag as an adult... however back to being 14 years old seeing my "friends" talking away, I decided on something: **if they weren't going to notice me, then they weren't my friends**. Sure enough, they didn't. Even L whom I had helped in an almost near-death experience *(ok maybe not quite, but could've become anyhow)* didn't look my way. After that year I did high school remotely and kept the same philosophy. Since then, I've only had 2 friends unlike the 7 I had back in middle school, until the day L texted me.
+**Sitting alone** on the sidewalk with my back against the building, I saw L, D, A, B, and K on the other side of the short field laughing and talking away. As a 9 yr old who never liked to be around the talkative girls, instead choosing the boys who would talk of Minecraft and play tag with other another, now at 14 years old I started thinking the same thoughts as I had at 9. Even though at 12, when beginning middle school, I had decided against befriending those boys again because **1.** I wanted to grow up, and **2.** there was no playground set. Yes I might just be tempted to play tag as an adult... however, back to being 14 years old seeing my "friends" talking away, I decided on something: **if they weren't going to notice me, then they weren't my friends**. 
+
+Sure enough, they didn't. Even L whom I had helped in an almost near-death experience *(ok maybe not quite, but could've become anyhow)* didn't look my way. After that year, I started high school remotely and kept the same philosophy. Since then, I've only had 2 friends unlike the 7 I had back in middle school, until the day L texted me.
 
 *(I deleted the texts a long time ago so I'm going based on memory)*
 
@@ -26,7 +28,7 @@ These questions come in my mind, but it's easy to brush them aside because of so
 
 "Hey L doing good..."
 
-From that point for a few days after we discussed drawings we did, who we were, etc. It wasn't until we shared our very different beliefs and I had shared a realistic drawing I made that she stopped responding. I didn't push it. However, a few years later she texted me back saying something like:
+From that point for a few days after we discussed drawings we drew, who we were, etc. It wasn't until we shared our very different beliefs and I had shared a realistic drawing I made that she stopped responding. I didn't push it. However, a few years later she texted me back saying something like:
 
 "Hi Olive"
 

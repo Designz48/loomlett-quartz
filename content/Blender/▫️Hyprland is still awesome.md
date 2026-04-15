@@ -1,5 +1,5 @@
 ---
-title: Arch is still awesome
+title: ▫️Arch is still awesome
 draft: false
 tags:
   - 3D

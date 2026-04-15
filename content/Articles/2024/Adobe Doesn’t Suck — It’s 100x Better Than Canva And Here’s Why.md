@@ -1,5 +1,5 @@
 ---
-title: 🌱 2-9-24 Adobe Doesn’t Suck — It’s 100x Better Than Canva And Here’s Why
+title: 🌱 Adobe Doesn’t Suck — It’s 100x Better Than Canva And Here’s Why
 draft: false
 tags:
   - design
@@ -18,7 +18,7 @@ When designing a graphic, if it’s quick then it works, right?
 
 But what if you need to change an _“artboard?”_
 
-==If you only use Canva, then you probably don’t know this term.==
+If you only use Canva, then you probably don’t know this term.
 
 Why is this detail important? Because with an **_“easy”_** way to design, comes less functionality which may be fine for you or cause you to buy Canva Pro.
 

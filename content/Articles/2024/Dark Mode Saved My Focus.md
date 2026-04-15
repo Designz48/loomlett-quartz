@@ -1,5 +1,5 @@
 ---
-title: 🌱 1-29-24 Dark Mode Saved My Focus
+title: 🌱 Dark Mode Saved My Focus
 draft: false
 tags:
   - health
@@ -15,7 +15,7 @@ Just a year ago I was a graphic design wannabe just starting college.
 
 Having played video games, done the entirety of my high school course online, the computer was the epicenter of where my eyes looked.
 
-==For many of us, night time is considered== ==**_the time to really get sh** done,_**== ==because there seems to be all the time in the world.==
+For many of us, night time is considered **_the time to really get sh** done,_**because there seems to be all the time in the world.
 
 Meaning, if you didn’t have time during the day to finish a task, just do it at night!
 
@@ -45,7 +45,7 @@ I wondered how this was any better than my gorgeous, white screen.
 
 The thing is,
 
-==I didn’t realize just how much it== ==_would_== ==help.==
+I didn’t realize just how much it _would_ help.
 
 ![](https://miro.medium.com/v2/resize:fit:700/0*CONSrmDtqMT1ppYe.png)
 
@@ -61,7 +61,7 @@ And overall, my eyes were really liking it.
 
 When I used that bright, white screen (what’s the word for _anti-dark mode_),
 
-especially at night, ==my eyes would strain to focus on the necessary words==.
+especially at night, my eyes would strain to focus on the necessary words.
 
 Whereas now, they’re relieved when met with the dark appearance!
 
@@ -69,7 +69,7 @@ As I’m writing this actually, I’m using Obsidian for my early-morning writin
 
 I’ve found a lot of other uses for dark mode, too.
 
-==Like when it comes to aesthetics, searching the web, and (hopefully soon) for reading on Medium.==
+Like when it comes to aesthetics, searching the web, and (hopefully soon) for reading on Medium.
 
 After seeing the results for myself on the **_wonders of dark mode_** (it took me about 6 years of hearing about it),
 
@@ -87,7 +87,7 @@ But first…
 
 In recent years, dark-mode has grown popularity for its chic, sci-fi like appearance on your monitor, nonetheless if you’re on mobile, tablet, or PC.
 
-==It’s said to be originated with software developers who would clock in late hours, and found that the usual white screen was too glaring at night.==
+It’s said to be originated with software developers who would clock in late hours, and found that the usual white screen was too glaring at night.
 
 Most of us have heard how it helps relieve our eyes of blue light strain, helping to work longer hours both day & night (especially).
 
@@ -95,7 +95,7 @@ A large part of its fame is because of aesthetics, especially in having contrast
 
 But have you heard much about how it helps the **_computer_**?
 
-==Another plus about dark-mode is increased battery life,== ==(for obvious reasons but stating it anyway) because the majority of your screen is dark rather than white, which emits more light.==
+Another plus about dark-mode is increased battery life, (for obvious reasons but stating it anyway) because the majority of your screen is dark rather than white, which emits more light.
 
 So… we know why it’s good for computers, now what about **_humans_**?
 
@@ -145,9 +145,9 @@ But if its a late night, you’re eyes will thank you by using a dark-mode displ
 
 Think of it this way,
 
-==**_Light for light._**==
+**_Light for light._**
 
-==**_Night for night._**==
+**_Night for night._**
 
 Remember too, that not [_all displays are created equal._](https://blog.superhuman.com/why-do-people-use-dark-mode/)
 
@@ -173,7 +173,7 @@ Why?
 
 There, now you know the difference between dark and white-mode when it comes to eye health.
 
-==Choose according to what suits you best==:
+Choose according to what suits you best:
 
 - Depending on the light conditions in your environment, _and_
 - How dilated your pupils are that day.
@@ -188,7 +188,7 @@ I like to use dark-mode right after I wake up, and then switch to white-mode as 
 
 screenshot by author
 
-==Dark mode helps productivity, making it easier on the eyes during night time,== ==and keeps your display aesthetically~trendy.==
+Dark mode helps productivity, making it easier on the eyes during night time, and keeps your display aesthetically~trendy.
 
 I can’t begin to tell you how much more focused & relieved my eyes have felt since my transition to dark-mode only!
 

@@ -1,5 +1,5 @@
 ---
-title: 🌱 2-15-24 Layers in Designing
+title: 🌱 Layers in Designing
 draft: false
 tags:
   - design
@@ -11,7 +11,7 @@ time:
 
 When you log into Photoshop, Illustrator, Clip Studio Paint, or Krita and click _“New Layer”_ **do you think much about how it works?**
 
-I would definitely assume not — unless you’ve personally worked on the technical gist of developing these software’s, ==**_all you’re focused on is designing or painting what you want._**==
+I would definitely assume not — unless you’ve personally worked on the technical gist of developing these software’s, **_all you’re focused on is designing or painting what you want._**
 
 That’s what we’re gonna get into, what layers do we need to peel back about _layers?_
 
@@ -25,7 +25,7 @@ But did you know that layers were first used commercially by xRES?
 
 Which is an image editing application by Fauve Software.
 
-==At least, that’s what a secondary source says on the== ==[Wayback Machine](https://web.archive.org/web/20170201140928/http://pages.swcp.com/rtoads/vivisect/software/matisse.html)====.==
+At least, that’s what a secondary source says on the [Wayback Machine](https://web.archive.org/web/20170201140928/http://pages.swcp.com/rtoads/vivisect/software/matisse.html).
 
 That’s right, before Photoshop used layers — though [Photoshop 1.0](https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html) was first released in 1990 (which pre-dated [xRES by 4–7 years](https://www.timetoast.com/timelines/graphics-editing-history\)%20\(https://macromedia.fandom.com/wiki/Macromedia_xRes)), xRES most likely had first used layers for their photo-editing software!
 
@@ -43,9 +43,9 @@ According to this _“you may think it’s new but it’s not”_ edition by P
 
 > “Grew frustrated having to choose between the land and the sky in an image, which often meant leaving the sky pure white and overexposed. So, 170 years ago he solved this problem by creating the process of layering, or “combination printing” as he defined it at the time…”
 
-==Wow, so== ==**_“combination printing”_**== ==was the first instance of layering in photos!==
+Wow, so **_“combination printing”_** was the first instance of layering in photos!
 
-==So in fact, before the digital medium==,
+So in fact, before the digital medium,
 
 > “…[photographers](https://www.photocascadia.com/you-may-think-its-new-but-its-not-layering/) have been manipulating images since the invention of the craft. Using the tools of an art allow us to expand and evolve our own work and the art itself.”
 
@@ -73,7 +73,7 @@ And also I want to note this,
 > 
 > Rendering overlapping objects that include an alpha value is called alpha blending.”
 
-==So… either creating layers from scratch in a digital medium is either pretty easy or super hard.==
+So… either creating layers from scratch in a digital medium is either pretty easy or super hard.
 
 As someone who isn’t tech-savvy on using code or GIMP I can’t say for certain.
 
@@ -99,7 +99,7 @@ Or this clever use of shapes to create a minimalist style — and bringing shape
 
 Image by [Darya Semenova](https://dribbble.com/patrisxa) from [Dribble](https://dribbble.com/shots/23577861-Bring-Love)
 
-==**Layers make everything easy for a designer,**== ==and help along with our perception of shapes for vivid imagery to take place.==
+**Layers make everything easy for a designer,** and help along with our perception of shapes for vivid imagery to take place.
 
 ## Takeaway
 
@@ -107,6 +107,6 @@ Knowing what goes on **_behind-the-scenes_** & **_understanding how software 
 
 Not only does getting a gist of both spectrums help to troubleshoot easier, but especially in _appreciating the software that helps you do so much creatively._
 
-==Also, maybe knowing this helps you to have a little patience before throwing your computer out the window when Photoshop suddenly crashes (it helped me).==
+Also, maybe knowing this helps you to have a little patience before throwing your computer out the window when Photoshop suddenly crashes (it helped me).
 
 **_I’m OJ, a college student studying remotely for my Graphic Design degree. I research topics for my own curiosity in design to share with others!_**

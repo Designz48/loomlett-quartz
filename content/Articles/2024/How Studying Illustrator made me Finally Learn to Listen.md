@@ -1,5 +1,5 @@
 ---
-title: 🌱 1-9-24 How Studying Illustrator made me Finally Learn to Listen
+title: 🌱 How Studying Illustrator made me Finally Learn to Listen
 draft: false
 tags:
   - design

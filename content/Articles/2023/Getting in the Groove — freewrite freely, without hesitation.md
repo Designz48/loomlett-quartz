@@ -1,5 +1,5 @@
 ---
-title: 🌱 10-18-23 Getting in the Groove
+title: 🌱 Getting in the Groove
 draft: false
 tags:
   - writing
@@ -22,7 +22,7 @@ Take a breath,
 
 You like nature? Go outside. Like listening to metal? Do it.
 
-Feel inspired by **_your_** groove, not by your co-worker ==Melinda’s who likes country music== like it’s her last day on earth.
+Feel inspired by **_your_** groove, not by your co-worker Melinda’s who likes country music like it’s her last day on earth.
 
 Alright, that was a pun.
 
@@ -164,7 +164,7 @@ Keep these things in mind, as noted:
 
 and use the right **medium** to easily go back to your ideas!
 
-Most importantly I should add (though I didn’t discuss) ==is taking== ==**_action_**== ==on your ideas, instead of letting them sit in a Notion template or in Obsidian.==
+Most importantly I should add (though I didn’t discuss) is taking **_action_** on your ideas, instead of letting them sit in a Notion template or in Obsidian.
 
 I can discuss that another time.
 

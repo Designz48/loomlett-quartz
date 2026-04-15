@@ -1,5 +1,5 @@
 ---
-title: 🌱 7-29-23 Starting the daily grind — before coffee
+title: 🌱 Starting the daily grind — before coffee
 draft: false
 tags:
   - health

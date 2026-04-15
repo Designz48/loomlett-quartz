@@ -1,5 +1,5 @@
 ---
-title: 🌱 12-21-23 Appreciate The Little Things
+title: 🌱 Appreciate The Little Things
 draft: false
 tags:
   - nature

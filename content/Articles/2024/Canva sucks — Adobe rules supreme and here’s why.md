@@ -1,5 +1,5 @@
 ---
-title: 🌱 2-8-24 Canva sucks — Adobe rules supreme and here’s why
+title: 🌱 Canva sucks — Adobe rules supreme and here’s why
 draft: false
 tags:
   - design

@@ -1,5 +1,5 @@
 ---
-title: 🌱 12-28-23 Diamonds in the Rough
+title: 🌱 Diamonds in the Rough
 draft: false
 tags:
   - writing
@@ -18,7 +18,7 @@ Yet, we have several of these diamonds floating around in our brain, cluttering 
 
 When our brain can’t organize for us, that’s where freewriting is the cure.
 
-==Writing our thoughts down helps us not to forget things, to learn from an experience, keep note of a good experience we have.==
+Writing our thoughts down helps us not to forget things, to learn from an experience, keep note of a good experience we have.
 
 Not only do we have these **_diamonds_** in written form, but it becomes organized in our brain, too.
 

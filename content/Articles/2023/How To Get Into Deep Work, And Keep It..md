@@ -1,5 +1,5 @@
 ---
-title: 🌱 12-14-23 How To Get Into Deep Work, And Keep It.
+title: 🌱 How To Get Into Deep Work, And Keep It.
 draft: false
 tags:
   - timetracking
@@ -14,7 +14,7 @@ _A simple change in routine is all it takes._
 
 When I was studying in my 1st semester of college,
 
-==I often wondered why I was getting== ==**_tired_**== ==at certain parts of the day and feeling== ==**_energized_**== ==at other times.==
+I often wondered why I was getting **_tired_** at certain parts of the day and feeling **_energized_** at other times.
 
 Especially when I either wanted to get things done but was feeling tired, or vice versa.
 

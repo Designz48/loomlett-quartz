@@ -1,5 +1,5 @@
 ---
-title: 🌱 1-2-24 3 ways you can get ur...
+title: 🌱 3 ways you can get ur...
 draft: false
 tags:
   - timetracking

@@ -1,5 +1,5 @@
 ---
-title: 🌱 11-23-23 Perspective is everything
+title: 🌱 Perspective is everything
 draft: false
 tags:
   - design

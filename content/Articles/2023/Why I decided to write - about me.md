@@ -1,5 +1,5 @@
 ---
-title: 🌱 7-21-23 Why I decided to write - about me
+title: 🌱 Why I decided to write - about me
 draft: false
 tags:
   - experiences

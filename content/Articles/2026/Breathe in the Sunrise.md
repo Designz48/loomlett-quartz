@@ -1,5 +1,5 @@
 ---
-title: 🌱 12-20-23 Breathe in the Sunrise
+title: 🌱 Breathe in the Sunrise
 draft: false
 tags:
   - nature

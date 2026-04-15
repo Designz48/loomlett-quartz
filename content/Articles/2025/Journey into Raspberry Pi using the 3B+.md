@@ -1,5 +1,5 @@
 ---
-title: 10-5-25 Journey into Raspberry Pi using the 3B+
+title: 🌱 Journey into Raspberry Pi using the 3B+
 draft: false
 tags:
   - updateme

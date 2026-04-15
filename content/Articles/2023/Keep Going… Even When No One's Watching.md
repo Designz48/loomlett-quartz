@@ -1,5 +1,5 @@
 ---
-title: 🌱 11-21-23 Keep Going… Even When No One's Watching
+title: 🌱 Keep Going… Even When No One's Watching
 draft: false
 tags:
   - alone
@@ -25,13 +25,13 @@ Whenever we’re at home, the park, running errands, these are obvious places to
 
 You have research piling up, analytics from your business to track, posts to schedule.
 
-==Who are you doing it for?==
+Who are you doing it for?
 
 We can feel as if the whole world is watching us… even when we’re alone.
 
 What if it was possible to be seen by just ourselves?
 
-==We know why we choose goals, and what we want in life.==
+We know why we choose goals, and what we want in life.
 
 That’s part of the reason we’re our own employer.
 

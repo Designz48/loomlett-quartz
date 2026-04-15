@@ -1,5 +1,5 @@
 ---
-title: 🌱 10-23-23 Art & its Transformation on Design
+title: 🌱 Art & its Transformation on Design
 draft: false
 tags:
   - design
@@ -40,7 +40,7 @@ Take Greek statues for instance, they told stories of ancient folklore, as well 
 
 _[Fact: Roman’s adapted the alphabet we know today, based on the Greek’s first version of it, who then adapted it from the Phoenicians.]_
 
-However, it becomes grayed lines as to where someone got it, because inspiration can come from anywhere. ==Same as today, we see styles from the past and apply it in our own way for the future.==
+However, it becomes grayed lines as to where someone got it, because inspiration can come from anywhere. Same as today, we see styles from the past and apply it in our own way for the future.
 
 So you could say,
 
@@ -64,7 +64,7 @@ I’m stating the obvious again, but this has drastically changed from past cult
 
 Cultures in “ancient” civilizations would establish their dominance into other cultures by sending troops to neighboring countries, using many resources to take over theirs.
 
-==Now, we have a non-physical medium to establish our culture into others! Without even needing to get up from our chair.==
+Now, we have a non-physical medium to establish our culture into others! Without even needing to get up from our chair.
 
 ## Art is a mirror to past civilizations and their ways of thinking.
 
@@ -80,9 +80,9 @@ sharing the ideas, symbolisms, and real-life illustrations of what was happening
 
 Artists were the _keyholders_ when it comes to our modern society learning from past societies, so that we don’t make the same mistakes in the future.
 
-==As subjective as art is, the way it can be== ==**perceived**== ==by different viewers is really a case study in itself.== Whether we like, dislike, or can feel exactly what the artist was portraying, our own minds give us the context of what we can understand- depending on our experiences.
+As subjective as art is, the way it can be **perceived** by different viewers is really a case study in itself. Whether we like, dislike, or can feel exactly what the artist was portraying, our own minds give us the context of what we can understand- depending on our experiences.
 
-> ==Art is a way of expressing our inner selves, but it can also be represented in a whole new light depending on its impression upon other people.==
+> Art is a way of expressing our inner selves, but it can also be represented in a whole new light depending on its impression upon other people.
 
 Whereas, designing is taken at **face-value** to understand exactly what is communicated on the page at only a moments glance.
 

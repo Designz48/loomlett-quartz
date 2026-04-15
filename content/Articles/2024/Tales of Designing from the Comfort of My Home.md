@@ -1,5 +1,5 @@
 ---
-title: 🌱 1-10-24 Tales of Designing from the Comfort of My Home
+title: 🌱 Tales of Designing from the Comfort of My Home
 draft: false
 tags:
   - alone
@@ -23,7 +23,7 @@ There’s no particular reason why it’s at home, other than…
 
 and most importantly, I’m **alone.**
 
-==A perfect concoction for== ==_productivity & creativity!_==
+A perfect concoction for _productivity & creativity!_
 
 ![](https://miro.medium.com/v2/resize:fit:480/1*IXgZySKC435PYVsqWMsrpA.gif)
 

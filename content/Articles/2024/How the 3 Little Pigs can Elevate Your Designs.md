@@ -1,5 +1,5 @@
 ---
-title: 🌱 2-4-24 How the 3 Little Pigs can Elevate Your Designs
+title: 🌱 How the 3 Little Pigs can Elevate Your Designs
 draft: false
 tags:
   - design
@@ -78,7 +78,7 @@ Each of these have phrases grouped in 3. Meaning, it isn’t used only for count
 
 **_They’re used in pretty much everything!_**
 
-==Not only can this way of organizing be used in sentence structure==, but in:
+Not only can this way of organizing be used in sentence structure, but in:
 
 > 1. Bullet points  
 > 2. Headings  
@@ -90,7 +90,7 @@ When designing a graphic, we have the whole artboard at our finger tips — so b
 
 > Let’s see how we can make use of these 3 ways in design.
 
-### 1. ==Bullet Points==
+### 1. Bullet Points
 
 Used for organizing & highlighting information at a glance, it helps condense copy without making it look clustered on a page. This can be further made to stand out with a lot of linespacing.
 
@@ -98,7 +98,7 @@ Used for organizing & highlighting information at a glance, it helps condense co
 
 Image by [Freddy](https://dribbble.com/bonfantife) from [Dribble](https://dribbble.com/shots/17746217-Flawless-Studio-Slide-Manifesto)
 
-### 2. ==Headings==
+### 2. Headings
 
 Gives a clear hierarchy of information, we can note points of importance whether we give a small paragraph under it or not.
 
@@ -106,7 +106,7 @@ Gives a clear hierarchy of information, we can note points of importance whether
 
 Image by [Gil](https://dribbble.com/gilhuybrecht) from [Dribble](https://dribbble.com/shots/2914040-Flyer)
 
-### 3. ==Placement==
+### 3. Placement
 
 Designing is creative, there’s plenty of new trends to take from that show out-of-the-box placement styles. Whether it’s alternating between right and left or the etc. Make it fun!
 
@@ -118,7 +118,7 @@ Most importantly, using groups of 3 gives emphasis on **_major components_**, 
 
 By using **bullet points**, **headings**, and **placement** — along with any other **_creative way that you can figure out_**, you can make your designs look complete & stand out from the rest!
 
-As we’ve seen, ==using groups of 3 is a great asset in graphic design because it gives a clear== ==**_hierarchy_**====, ==**_organizes text_**====, and makes ==**_information easier to remember_**====.
+As we’ve seen, using groups of 3 is a great asset in graphic design because it gives a clear **_hierarchy_**, **_organizes text_**, and makes **_information easier to remember_**.
 
 By incorporating this grouping in your designs, you’re sure to make an impact and keep your graphics **_rock n’ rolling!_**
 

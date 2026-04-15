@@ -1,5 +1,5 @@
 ---
-title: 🌱 7-24-23 Accept your immaturity — Moving Forward
+title: 🌱 Accept your immaturity — Moving Forward
 draft: false
 tags:
   - design

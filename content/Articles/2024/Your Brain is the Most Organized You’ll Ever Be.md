@@ -1,5 +1,5 @@
 ---
-title: 🌱 1-16-2024 Your Brain is the Most Organized You’ll Ever Be
+title: 🌱 Your Brain is the Most Organized You’ll Ever Be
 draft: false
 tags:
   - second-brain
@@ -16,13 +16,13 @@ They hold our thoughts, experiences, and give us that sense of Deja Vu if we’r
 
 We go through several experiences every day.
 
-==_The taste of your coffee —_== ==seems a little different than yesterday so maybe I should add more creamer.==
+_The taste of your coffee —_ seems a little different than yesterday so maybe I should add more creamer.
 
 _To the texture of a rock you pick up,_ throwing to the wayside of your driveway.
 
 ## Our brain is like a filing cabinet.
 
-==Each of us have stored everything we’ve been through, in it.==
+Each of us have stored everything we’ve been through, in it.
 
 And depending on if we’ve had difficult personal experiences, these memories can be happy or like a curse.
 
@@ -74,21 +74,21 @@ And once ready, they’re not easy to let go.
 
 Yet, we have several of these diamonds floating around in our brain, cluttering space.
 
-==When our brain can’t organize for us, that’s where== ==**_freewriting is the cure._**==
+When our brain can’t organize for us, that’s where **_freewriting is the cure._**
 
-==Writing those cluttered pieces down helps us not to forget it, and to learn from an experience we had.==
+Writing those cluttered pieces down helps us not to forget it, and to learn from an experience we had.
 
-==Not only do we have these diamonds in written form, but it becomes better organized in our brain, too.==
+Not only do we have these diamonds in written form, but it becomes better organized in our brain, too.
 
 Writing is like manually sorting our brain, without having to dig in there to sort it ourselves (not like we humanly could anyway).
 
-Some people call this journaling, ==others freewriting==.
+Some people call this journaling, others freewriting.
 
-==They’re all ways to== ==**_organize_**== ==the info in our brains, help us to== ==**_understand_**== ==our past circumstances, and to== ==**_apply_**== ==what we learned for the future.==
+They’re all ways to **_organize_** the info in our brains, help us to **_understand_** our past circumstances, and to **_apply_** what we learned for the future.
 
-Another way to freewrite is by putting together a ==**Second Brain**==.
+Another way to freewrite is by putting together a **Second Brain**.
 
-==A place to put these floating pieces of info in, and make it easier for us to order them so they’re written down== ==_before_== ==they’re necessary.==
+A place to put these floating pieces of info in, and make it easier for us to order them so they’re written down _before_ they’re necessary.
 
 That way, we can have the information when we need it.
 
@@ -126,4 +126,4 @@ or even better, _journal your day._
 
 Your brain is the most organized you’ll ever be,
 
-## but you have to help it out for it to help you in return!
+***but you have to help it out for it to help you in return!***

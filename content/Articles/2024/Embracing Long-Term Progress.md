@@ -1,5 +1,5 @@
 ---
-title: 🌱 2-13-24 Embracing Long-Term Progress
+title: 🌱 Embracing Long-Term Progress
 draft: false
 tags:
 date: 2024-02-13

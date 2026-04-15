@@ -1,5 +1,5 @@
 ---
-title: 🌱 11-30-23 Color Is Everywhere — It Just Takes Someone to Observe it
+title: 🌱 Color Is Everywhere — It Just Takes Someone to Observe it
 draft: false
 tags:
   - design
@@ -18,17 +18,17 @@ _The hues displayed on your nightshade, it change depending on the first shine o
 
 _Or the last bursts of sun hitting the edges of the grass in the sunset._
 
-### ==Color combinations are everywhere you look.==
+### Color combinations are everywhere you look.
 
 Have you wondered why yellow/orange & blue/purple just _work_ when put together?
 
-==Same as Mint Green & Vermillion, or another color paired with a favorite of yours?==
+Same as Mint Green & Vermillion, or another color paired with a favorite of yours?
 
-These schemes are defined in a set of principles called ==**_Color Theory_**====.==
+These schemes are defined in a set of principles called **_Color Theory_**.
 
-==They weren’t invented by people, yet were first discovered by simply observing nature==.
+They weren’t invented by people, yet were first discovered by simply observing nature.
 
 So go outside,
 
 **_and look for some color combos!_**
-### ==Discover what others haven’t.==
+### Discover what others haven’t.

@@ -1,9 +1,8 @@
 ---
-title: 🌱 4-13-26 Breakfast - Best Times to Consume for All-Day Energy
+title: 🌱 Breakfast - Best Times to Consume for All-Day Energy
 draft: false
 tags:
   - health
-  - updateme
 date: 2026-04-13
 time: 3 min
 ---
@@ -43,7 +42,17 @@ Walking back home, I get inside and boil up some rotini pasta with a splash of [
 Going outside to do chores always helps me feel better energized, same as today, though the sun was quite overwhelming compared to the sun just 1 hr ago when I came inside in the morning. However, I felt less hungry than I did this morning, and it's lasted until 4 pm as usual.
 
 ### Evening
-Having a light salad with olives, lettuce, parmesan, [[radish]], and anything else that makes sense. I can tell that I'm on the same timeline as before and that waking up earlier didn't hamper anything. I'll be updating this article and noting it in the latest Update if I find anything else to research!
+Having a light salad with olives, lettuce, parmesan, [[radish]], and anything else that makes sense. I can tell that I'm on the same timeline as before and that waking up earlier didn't hamper anything.
+
+---
+# *Next day*
+Turns out that my instinct was right, I'm better off eating breakfast between 1-2 hrs after waking up to feel more energized later. Prioritizing jump roping when I wake up has really helped too, and also getting 8.5 hrs sleep average.
+
+While I'd be curious in exploring the next plausible question: *When to eat dinner*, I've researched this before and found that 2 hours before sleep is best, and it's always worked out for me this way. 
+
+---
+# Takeaway
+Do what feels best for you. Sticking to *"Oh I need to get exactly 8 hours sleep,"* doesn't help keep a balance like a flexible #routine does.
 
 
 ---

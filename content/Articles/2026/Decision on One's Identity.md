@@ -1,6 +1,6 @@
 ---
 title: Decision on One's Identity
-draft: false
+draft: true
 tags:
   - experiences
 date: 2026-01-14

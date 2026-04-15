@@ -1,6 +1,6 @@
 ---
 title: 🌱 Mints Adventure in my Backyard
-draft: false
+draft: true
 tags:
   - experiences
 date:

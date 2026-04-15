@@ -1,5 +1,5 @@
 ---
-title: 🌱 12-15-23 Stay Creative
+title: 🌱 Stay Creative
 draft: false
 tags:
   - timetracking

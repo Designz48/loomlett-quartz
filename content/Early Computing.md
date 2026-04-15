@@ -1,6 +1,6 @@
 ---
 title: 🌱 Early Computing
-draft: false
+draft: true
 tags:
   - updateme
 date: 2026-04-08
