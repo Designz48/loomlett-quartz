@@ -1,0 +1,2 @@
+[[high self-monitoring introvert]]
+
