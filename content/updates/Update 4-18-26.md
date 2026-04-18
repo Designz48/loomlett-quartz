@@ -14,3 +14,5 @@ time: 2 min
 Didn't realize just how *easy* it was to change the name from "quartz 4" to loomlett... it was in the [instructions](https://quartz.jzhao.xyz/configuration) . _ . *(pageTitle: Loomlett)*
 
 Unfortunately tho, the favicon won't change to my new one. Something to do with tmp files maybe? Instructions don't say how to change it, especially without the file being mysteriously deleted and then the build not knowing where it went.
+
+> Also added more articles from 2024 [Medium](https://medium.com/@designzbyoj) stories to Loomlett
