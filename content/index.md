@@ -33,7 +33,7 @@ I started off "Helping you build a routine that energizes- not exhausts 🗲", b
 ---
 ## Updates
 Every day or so I write an update with changes I've made and the articles I wrote that day, it's a way to help me keep up-to-date n' organized. Here's the [[⚪ complete list of updates]].
-> **Recent Update**:  [[Update 4-16-26]]
+> **Recent Update**:  [[Update 4-18-26]]
 
 ---
 ## Goals to write n' introspect on
@@ -53,6 +53,6 @@ Every day or so I write an update with changes I've made and the articles I wrot
 + WHY ARE THE IMAGES NOT SHOWING UP OLIVE
 + ~~Hierarchy for left-hand side navigation (seeing if chronology works, so far it is since 2026 articles are at the top).~~
 + Subheadings should be different typeface, as well as code block which is barely readable.
-+ Quartz 4 should be changed to Loomlett... now to figure out what .ts file that is.
++ ~~Quartz 4 should be changed to Loomlett... now to figure out what .ts file that is.~~
 + ~~Write article showcasing efforts in setting up Quartz and configuring to help other digital gardeners out.~~
 + Transparent background appearance, change checkboxes etc,

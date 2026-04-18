@@ -1,9 +1,13 @@
 ---
-title: Example Title
+title: Update
 draft: false
 tags:
-  - example-tag
 date:
-time:
+time: 2 min
 ---
-> Last update
+> **Last update**:
+
+>**Wrote**:
+
+
+# Site dev

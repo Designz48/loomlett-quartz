@@ -18,7 +18,7 @@ _Coffee is irresistible,_
 
 _Coffee is our life source._
 
-**_Right when we wake up_** from a good-enough sleep, a look of glee spreads across our lips when stumbling towards the coffee maker- sitting petitly on our countertop. No matter how we prepare our coffee, it still yields that fresh, stoked smell of invigorating caffeine.
+**_Right when we wake up_** from a good-enough sleep, a look of glee spreads across our lips when stumbling towards the coffee maker- sitting petitely on our countertop. No matter how we prepare our coffee, it still yields that fresh, stoked smell of invigorating caffeine.
 
 Have I stirred your senses enough? What if I told you that you can be productive without having it so _soon_ after getting up.
 
@@ -75,7 +75,7 @@ Coffee is only a stimulant, use _action_ to fuel your day to achieve better pr
 
 _Hope you enjoyed this read from me, this has been a 2 year process for myself to figure out. But realizing how I can keep better energy management has been worth it! I hope this has been helpful for you too._
 
-**_Each of us have a journey that consists of transitions full of change and developments. If you like my journey please leave a follow! And come back next week to read a new story from me._**
+**_Each of us have a journey that consists of transitions full of change and developments. If you like my journey please come back next week to read a new story from me._**
 
 Walle, (May 15, 2020.) _When is the best time to drink coffee?_ [https://medium.com/@arinbasu/you-can-use-footnotes-thus-babus%C2%B9-6c485c4eff1e](https://www.healthline.com/nutrition/best-time-to-drink-coffee)
 

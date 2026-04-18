@@ -33,6 +33,7 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 ### 💚 89ers
 + [Go Go Go!](https://www.youtube.com/watch?v=GDA45wfHV14&list=RDGDA45wfHV14&start_radio=1)
 + [No Go Go Go](https://www.youtube.com/watch?v=aVd86Q_ToPg&list=RDaVd86Q_ToPg&start_radio=1)
++ [We Own the Night](https://www.youtube.com/watch?v=8--MS1nNKrI&list=RD8--MS1nNKrI&start_radio=1)
 
 ### Other favorites
 + [Crossed Hearts](https://www.youtube.com/watch?v=N9KJG9IYP7c&list=RDD-oUnf9D5Co&index=2)
