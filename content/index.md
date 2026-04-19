@@ -23,36 +23,34 @@ Thank you for stopping by! I hope my articles from the past and future are meani
 
 ---
 # About author
-Hey there! I'm DesignzByOJ (Olivia), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
+![[static/logo.png|50]]Hey there! I'm DesignzByOJ (Olivia), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
 I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become **documenting parts of my life to help others be digitally independent.**
 
->> [[💻 Projects I'm working on]], [[🎵 Music]], [[📸 Photography]], [[📚 Books]], [[(˶˃ ᵕ ˂˶) Why I started this]]
+> [[💻 Projects I'm working on]], [[🎵 Music]], [[📸 Photography]], [[📚 Books]], [[(˶˃ ᵕ ˂˶) Why I started this]]
 
-*This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D (if images don't show, see them on https://dribbble.com/designzbyoj).*
+*This site is continually underway! Check back to see updates & give me an email designzbyoj@gmail.com to share w/ me anything :D
+
+![[static/Frame.png]]
+>**Portfolio** [Dribbble](https://dribbble.com/designzbyoj)
 
 ---
-## Updates
+# ✨ Updates
 Every day or so I write an update with changes I've made and the articles I wrote that day, it's a way to help me keep up-to-date n' organized. Here's the [[⚪ complete list of updates]].
-> **Recent Update**:  [[Update 4-18-26]]
+> **Recent Update**:  [[Update 4-19-26]]
 
 ---
-## Goals to write n' introspect on
+#### Goals to write n' introspect on
 + Circadian rhythm - how people have less or more than 24hr clocks
 + Types of introverts (high vs low) and extroverts (shy vs stereotypical)
 + [[Early Computing]]
-![[logo.webp]]
-![[Frame.png]]
-    ![[JUMPER-appar.png]]
-    ![[saturn.jpg]]
-    ![[workflow.jpg]]
 
 > Comment by emailing me designzbyoj@gmail.com 
 
 ---
-## Fixes to-do on site
-+ WHY ARE THE IMAGES NOT SHOWING UP OLIVE
+#### Fixes to-do on site
++ ~~WHY ARE THE IMAGES NOT SHOWING UP OLIVE~~
 + ~~Hierarchy for left-hand side navigation (seeing if chronology works, so far it is since 2026 articles are at the top).~~
 + Subheadings should be different typeface, as well as code block which is barely readable.
 + ~~Quartz 4 should be changed to Loomlett... now to figure out what .ts file that is.~~
 + ~~Write article showcasing efforts in setting up Quartz and configuring to help other digital gardeners out.~~
-+ Transparent background appearance, change checkboxes etc,
++ ~~Transparent background appearance,~~ change checkboxes etc,

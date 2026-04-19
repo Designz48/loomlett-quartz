@@ -6,6 +6,11 @@ tags:
 date: 2026-04-15
 time:
 ---
+---
+## Digital Garden List
++ [jzhao list](https://quartz.jzhao.xyz/showcase)
+---
+
 As said by [Jzhao, who created the Quartz framework](https://jzhao.xyz/posts/networked-thought):
 
 ## A garden should be a true hypertext
