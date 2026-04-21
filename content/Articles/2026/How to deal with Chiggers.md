@@ -21,7 +21,7 @@ While this seems terrifying, what's really cool is that chiggers are so fragile 
 How ever did they find my arm though? I didn't think that I was rolling around in the woods all that much, though the cats certainly did. Fortunately for them, their fur is so thick that the chiggers tiny teeth can't penetrate, also why bites on humans show up in tender regions. However, when I touch their fur, that's where the chiggers hitch a ride and end up on my hands and arms.
 
 # Remedies
-While doctors will recommend lotion or medicine, I don't want to buy an expensive this or that when the potential for bites is every day. ***The best remedy is simply not to scratch***. Easier said than done when first having them, though I've noticed that since I'm so used to them, I've grown a resistance from itching. It was much different when I first felt them.
+While doctors will recommend lotion or medicine, I don't want to buy an expensive this or that when the potential for bites is every day. **The best remedy is simply not to scratch**. Easier said than done when first having them, though I've noticed that since I'm so used to them, I've grown a resistance from itching. It was much different when I first felt them.
 
 What helped me a lot was my dad's homemade product called EcoShield that's an insecticidal soap. Strange, I know, but boy did it help. When the itching got so intense, I would take gauze and wrap it around my arm covered in EcoShield. This way, it would dry out my skin and the areas would turn a lighter bubbly orange color, then shed dead skin.
 

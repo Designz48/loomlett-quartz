@@ -1,0 +1,1 @@
+dark-gray or black laptop with a [[trackpoint]] *(a nub!)*

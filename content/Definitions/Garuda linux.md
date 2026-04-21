@@ -1,0 +1,2 @@
+Fancy-looking [[distro]] that has easy driver management w/ NVIDIA.
+	Pretty much obsolete considering [[Arch]] can be installed simply with archinstall command for the last few years... and why do they still call [[Arch]] hard to install again?
