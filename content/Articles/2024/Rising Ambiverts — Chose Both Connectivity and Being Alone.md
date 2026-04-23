@@ -1,5 +1,5 @@
 ---
-title: Rising Ambiverts — Chose Both Connectivity and Being Alone
+title: 🌱 Rising Ambiverts — Chose Both Connectivity and Being Alone
 draft: false
 tags:
 date: 2024-07-20

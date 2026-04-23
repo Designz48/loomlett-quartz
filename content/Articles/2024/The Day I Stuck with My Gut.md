@@ -1,5 +1,5 @@
 ---
-title: The Day I Stuck with My Gut
+title: 🌱 The Day I Stuck with My Gut
 draft: false
 tags:
 date: 2024-06-25

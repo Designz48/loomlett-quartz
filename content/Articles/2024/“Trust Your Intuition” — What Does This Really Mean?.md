@@ -1,5 +1,5 @@
 ---
-title: “Trust Your Intuition” — What Does This Really Mean?
+title: 🌱 “Trust Your Intuition” — What Does This Really Mean?
 draft: false
 tags:
 date: 2024-06-26

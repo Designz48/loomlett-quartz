@@ -1,5 +1,5 @@
 ---
-title: Keep Your Success Simple n’ Obsessed
+title: 🌱 Keep Your Success Simple n’ Obsessed
 draft: false
 tags:
   - example-tag

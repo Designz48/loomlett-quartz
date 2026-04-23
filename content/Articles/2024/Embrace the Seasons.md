@@ -1,5 +1,5 @@
 ---
-title: Embrace the Seasons
+title: 🌱 Embrace the Seasons
 draft: false
 tags:
 date: 2024-08-10

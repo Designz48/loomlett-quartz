@@ -1,5 +1,5 @@
 ---
-title: “There’s No Place Like Home”
+title: 🌱 “There’s No Place Like Home”
 draft: false
 tags:
   - story

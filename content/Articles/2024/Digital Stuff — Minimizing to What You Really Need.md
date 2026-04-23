@@ -1,5 +1,5 @@
 ---
-title: Digital Stuff — Minimizing to What You Really Need
+title: 🌱 Digital Stuff — Minimizing to What You Really Need
 draft: false
 tags:
 date: 2024-06-12

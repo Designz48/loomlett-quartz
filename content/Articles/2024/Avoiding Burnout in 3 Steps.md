@@ -1,5 +1,5 @@
 ---
-title: Avoiding Burnout in 3 Steps
+title: 🌱 Avoiding Burnout in 3 Steps
 draft: false
 tags:
 date: 2024-07-16

@@ -1,5 +1,5 @@
 ---
-title: I Felt Better Today Than I Have in 3 Months
+title: 🌱 I Felt Better Today Than I Have in 3 Months
 draft: false
 tags:
 date: 2024-07-12

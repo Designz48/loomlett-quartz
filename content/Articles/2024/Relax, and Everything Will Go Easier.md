@@ -1,5 +1,5 @@
 ---
-title: Relax, and Everything Will Go Easier
+title: 🌱 Relax, and Everything Will Go Easier
 draft: false
 tags:
 date: 2024-06-28

@@ -1,5 +1,5 @@
 ---
-title: Instagram Sucks
+title: 🌱 Instagram Sucks
 draft: false
 tags:
 date: 2024-07-20

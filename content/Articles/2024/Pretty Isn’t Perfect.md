@@ -1,5 +1,5 @@
 ---
-title: Pretty Isn’t Perfect
+title: 🌱 Pretty Isn’t Perfect
 draft: false
 tags:
 date: 2024-07-21

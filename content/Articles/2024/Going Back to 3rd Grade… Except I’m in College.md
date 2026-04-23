@@ -1,5 +1,5 @@
 ---
-title: Going Back to 3rd Grade… Except I’m in College
+title: 🌱 Going Back to 3rd Grade… Except I’m in College
 draft: false
 tags:
 date: 2024-07-23

@@ -1,5 +1,5 @@
 ---
-title: Privacy - Good Habits Save Lives
+title: 🌱 Privacy - Good Habits Save Lives
 draft: true
 tags:
   - privacy

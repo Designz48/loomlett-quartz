@@ -1,5 +1,5 @@
 ---
-title: Overrated Nonsense in Your Routine Ain’t Workin’
+title: 🌱 Overrated Nonsense in Your Routine Ain’t Workin’
 draft: false
 tags:
   - routine

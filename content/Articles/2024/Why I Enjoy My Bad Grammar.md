@@ -1,5 +1,5 @@
 ---
-title: Why I Enjoy My Bad Grammar
+title: 🌱 Why I Enjoy My Bad Grammar
 draft: false
 tags:
 date: 2024-06-22

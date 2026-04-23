@@ -1,5 +1,5 @@
 ---
-title: Being Alone is Fun
+title: 🌱 Being Alone is Fun
 draft: false
 tags:
 date: 2024-06-26

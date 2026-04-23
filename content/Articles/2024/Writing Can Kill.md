@@ -1,5 +1,5 @@
 ---
-title: Writing Can Kill
+title: 🌱 Writing Can Kill
 draft: false
 tags:
 date: 2024-07-14

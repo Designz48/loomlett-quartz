@@ -1,5 +1,5 @@
 ---
-title: Seeing Through Your Unconscious Lens
+title: 🌱 Seeing Through Your Unconscious Lens
 draft: false
 tags:
 date: 2024-06-01

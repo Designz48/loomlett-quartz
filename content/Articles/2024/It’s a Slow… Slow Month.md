@@ -1,5 +1,5 @@
 ---
-title: It’s a Slow… Slow Month
+title: 🌱 It’s a Slow… Slow Month
 draft: false
 tags:
 date: 2024-07-16

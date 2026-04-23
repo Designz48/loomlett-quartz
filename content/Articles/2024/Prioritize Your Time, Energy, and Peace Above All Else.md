@@ -1,5 +1,5 @@
 ---
-title: Prioritize Your Time, Energy, and Peace Above All Else
+title: 🌱 Prioritize Your Time, Energy, and Peace Above All Else
 draft: false
 tags:
 date: 2024-07-12

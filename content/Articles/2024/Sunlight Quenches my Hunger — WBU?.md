@@ -1,5 +1,5 @@
 ---
-title: Sunlight Quenches my Hunger — WBU?
+title: 🌱 Sunlight Quenches my Hunger — WBU?
 draft: false
 tags:
   - example-tag

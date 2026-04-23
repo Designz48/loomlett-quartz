@@ -1,5 +1,5 @@
 ---
-title: Small Steps at a Time
+title: 🌱 Small Steps at a Time
 draft: false
 tags:
 date: 2024-06-09
