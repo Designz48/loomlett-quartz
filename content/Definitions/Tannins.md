@@ -1,0 +1,2 @@
+A plant's defense mechanism as said in [[Green Tea VS Yaupon]], stop nutrient absorption of iron and calcium, make digestion difficult
+	**Milk** and **Vitamin C** sources like lemon neutralize Tannins.

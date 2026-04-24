@@ -4,9 +4,10 @@ draft: false
 tags:
   - health
 date: 2026-04-12
-time:
+time: 5 min
 ---
-![[public/static/article img/yaupon.jpg]]
+
+![Yaupon](/static/yaupon.jpg)
 **Yaupon & Green tea are caffeinated teas that pack a punch for your vitality.** I'm sure you know Green tea, but have you heard of Yaupon? Turns out, they're not all that different, let's see why.
 
 Firstly though, did you know that the Green tea plant isn't called "Green tea"?
@@ -18,6 +19,8 @@ Yaupon tea on the other hand, comes from the North American native Yaupon Holly.
 >"contain active ingredients such as [caffeine](https://en.wikipedia.org/wiki/Caffeine "Caffeine"), [theobromine](https://en.wikipedia.org/wiki/Theobromine "Theobromine"), [ursolic acid](https://en.wikipedia.org/wiki/Ursolic_acid "Ursolic acid"), and [theophylline](https://en.wikipedia.org/wiki/Theophylline "Theophylline"), just like the related [yerba mate](https://en.wikipedia.org/wiki/Yerba_mate "Yerba mate") and [guayusa](https://en.wikipedia.org/wiki/Guayusa "Guayusa") hollies."
 # Comparisons
 Both Yaupon and Camellia Sinensis are evergreen shrubs, caffeinated, and have similar antioxidants, making Yaupon just a North American version of China's Green tea.
+
+Also, while Yaupon and Green tea don't taste much alike, Black tea and Yaupon taste very much the same.
 
 *Funny thought, since native american's like the Cherokee most likely came from Mongolia (next to china) they pretty much switched from the Camellia to Yaupon!*
 # Contrasts

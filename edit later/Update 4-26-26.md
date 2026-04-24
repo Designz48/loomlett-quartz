@@ -1,13 +1,13 @@
 ---
-title: Update
+title: Update 4-26-26
 draft: false
 tags:
-date: 2026-04-25
-time: 5 min
+date:
+time: 2 min
 ---
-> **Last update**:
+> **Last update**: [[Update 4-24-26]]
 
->**Wrote**:
+>**Wrote**: [[Decision on One's Identity]], [[How I Keep my Hair Floofy]]
 
 **Today I've started thinking about an experience I had as a kid.** Since I haven't thought of it in years, I should write it down as a learning aide to keep in mind for the future.
 
@@ -21,7 +21,4 @@ Funny enough, a few years ago at my "church", an elderly sister commented someth
 
 **In conclusion**, trying to solve a problem in an unhealthy way only brings upon *actual* problems- like starving oneself and deforming one's body. This has been the case with a lot of things come to think of it: Lately I've been watching a extrovert named [Lael Hansen](https://www.youtube.com/watch?v=8z0Jcf53NQ0) *(boy her internet lore is interesting)* talk about the issues with body dysmorphia and teens gravitation toward plastic surgery, thus how everyone starts looking the same *(noted in [[Adapt or Drown - Remembering My Goal]])*. People come up with imaginary problems and try finding solutions to it, thus filling the pockets of greedy companies who in part have caused this mindset, yet people themselves gladly falling into it. Perhaps there's other reasons why they fall into it, yes, but as for myself- the prices are so expensive compared to cheaper solutions, that are quality, and actually *help* me. After all, most people like the look of packaging more than the effectiveness of what's inside them.
 
----
-
-I just nailed how one of the field cats here meows, he doesn't. He goes A-rr. Does that make sense? I've never heard a cat sound that way, it's saying a squeaky loud "A" and a soft "rr." Now I do it to him when he does it to me :D
 # Site dev
