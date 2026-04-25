@@ -1,0 +1,2 @@
+An **Ultradian Rhythm** is a [biological pattern that manages how your body functions in time](https://www.bluezones.com/2020/06/how-taking-breaks-can-increase-productivity-boost-energy-levels-and-help-you-show-up-in-your-life/#) — a lot like its own alarm clock when you wake up, but in terms of energy levels.
+> **Ultradian** _means many times a day_, and **rhythms** refer to the _oscillating of wave patterns_ that manages these vital cycles.

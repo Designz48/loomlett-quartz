@@ -1,5 +1,5 @@
 ---
-title: Drop the Milk - a New Coffee Strat
+title: 🌱 Drop the Milk - a New Coffee Strat
 draft: false
 tags:
   - health
