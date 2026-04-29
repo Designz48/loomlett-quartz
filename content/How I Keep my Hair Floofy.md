@@ -1,5 +1,5 @@
 ---
-title: 🌱 How I Keep my Hair Floofy
+title: How I Keep my Hair Floofy
 draft: false
 tags:
   - experiences

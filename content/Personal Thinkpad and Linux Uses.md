@@ -1,16 +1,16 @@
 ---
-title: 🌱 Personal Thinkpad & Linux Uses
+title: Personal Thinkpad and Linux Uses
 draft: false
 tags:
   - linux
 date: 2026-04-28
-time: 10 min
+time: 9 mins
 ---
 ![thinkpad](/static/thinkpad.jpeg)
 **From what you saw on Loomlett**, I have 4 thinkpads/linux. While I used to use all of them around the same time, I've been sticking with 2 of recent. The major reason is that my excitement with trying all the Linux [[distro]]s has waned 🥲. ***For anyone starting Linux, take my journey as one avenue of what you might expect for your experience.***
 
 # Around August 2025
-**Finishing up my associates degree for Graphic Design remotely**, I was getting real tired of Windows 10. I've had the laptop for about 5 years at this point, loved playing Minecraft on it, but I never liked the laptop itself. Having cold, gray metal, and the OS was boring. I was introduced to a new path when I messaged a kid on IG some months before who was [ricing](https://www.reddit.com/r/unixporn/) *(customizing #linux )* and it amazed me. The images of her setup were unlike anything on Windows; bright colors, anime accents, a top bar rather than bottom. It was too complicated-looking for me to get into now, but it made me curious to use Linux.
+Finishing up my associates degree for Graphic Design remotely, I was getting real tired of Windows 10. I've had the laptop for about 5 years at this point, loved playing Minecraft on it, but I never liked the laptop itself. Having cold, gray metal, and the OS was boring. I was introduced to a new path when I messaged a kid on IG some months before who was [ricing](https://www.reddit.com/r/unixporn/) *(customizing #linux )* and it amazed me. The images of her setup were unlike anything on Windows; bright colors, anime accents, a top bar rather than bottom. It was too complicated-looking for me to get into now, but it made me curious to use Linux.
 
 Since my dad had bought my one-and-only laptop, I asked him about switching to Linux, and he was quite skeptical about its benefits over Windows; particularly for my occupation. However, he gave me the opportunity to switch OS's once I had finished my degree. However, this was still months away, and I was inspired to get started *now.* 
 
@@ -32,14 +32,14 @@ Over the next few months I got comfortable with both the interface and somewhat 
 After sticking with Garuda Linux for a few months, I had successfully proved my dad wrong about the switch. I didn't have any need for Windows since there were good alts available like Figma/Lunacy, Photopea, and GIMP. And I talked on and on about how it rivaled and surpassed Windows altogether! *([[Linux is Easy, Now]])*
 
 # Mid-2025
-**As I got excited about distros and curious about other Thinkpads-** while I started experimenting with [[VM]]s, I still wanted more laptops. Why not a desktop? Because I didn't have the experience :D
+As I got excited about distros and curious about other Thinkpads- while I started experimenting with [[VM]]s, I still wanted more laptops. Why not a desktop? Because I didn't have the experience :D
 
 The next laptop I got was a T440s on Ebay for $50. Specs are i5, bleh screen, and 8gb RAM. The screen actually looks pretty cool with the right wallpapers, and this was my trial top for Linux, so little RAM was fine. Since I was curious in other [[Arch]]-forked [[distro]]s, I tried EndeavorOS. It's considered pretty useless on the [Chris Titus Linux Tier List](https://www.youtube.com/watch?v=KyADkmRVe0U), but the community loves it for the intergalactic theme and diligence on the command-line, in which I was still getting used to. 
 
 ![thinkpad12](/static/thinkpad12.jpeg)
 
 # Late 2025
-**The L460**: affordable craptop for budget people. Ok not really, that's what the A-series is for, the L-series is the same but a bit better build. While it is the largest of my laptops, with about 2-inches more space, I bought it for $30 with a screen that was slightly broke but still usable. This is my ultimate testing top!
+The L460: affordable craptop for budget people. Ok not really, that's what the A-series is for, the L-series is the same but a bit better build. While it is the largest of my laptops, with about 2-inches more space, I bought it for $30 with a screen that was slightly broke but still usable. This is my ultimate testing top!
 
 Since Arch is the ultimate testing [[distro]], I went through the manual steps until I reached partition drive. For the LIFE of me I can't partition a drive. Fortunately I read other users feedback that, despite being techies, were terrified of it too, so I was comforted despite my lack of ability.
 
@@ -64,7 +64,7 @@ While I've made some switches to the Linux distros I use, there's 2 constants: D
 ---
 
 # Takeaway
-**Windows never gave me the opportunity to experiment**. It was like living in enclosed walls where every action is pre-meditated for you. Whereas Linux, and [[Arch]] specifically, opens the whole world of computing. Like [[Linus Torvalds]] said in his book "Just for Fun": “I’m a big believer that the best way to learn is to actually do it — build the thing. If you want to understand how an operating system works, write one.” (Not sure where this quote came from, but the next came from the book [[Just for Fun Pg. 73]]). 
+Windows never gave me the opportunity to experiment. It was like living in enclosed walls where every action is pre-meditated for you. Whereas Linux, and [[Arch]] specifically, opens the whole world of computing. Like [[Linus Torvalds]] said in his book "Just for Fun": “I’m a big believer that the best way to learn is to actually do it — build the thing. If you want to understand how an operating system works, write one.” (Not sure where this quote came from, but the next came from the book [[Just for Fun Pg. 73]]). 
 
 >"You get to create your own world, and the only thing that limits what you can do are the capabilities of the machine - and, more and more often these days, your own abilities." 
 
