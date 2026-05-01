@@ -7,7 +7,7 @@ time: 2 min
 ---
 > **Last updated**: [[Update 4-18-26]]
 
->**Wrote**: *(Updated)* [[What's a Digital Garden?]],  [[How to deal with Chiggers]]
+>**Wrote**: *(Updated)* [[What's a Digital Garden_]],  [[How to deal with Chiggers]]
 
 ## Site dev
 *FINALLLLLYYYY* figured out how showing images works, for favicon anyway. The source input folder is in quartz/quartz/static whereas output *(where I kept copying images into)* is quartz/public/static. A different way of doing it than what I've seen before, because of the emitter plugin being used.

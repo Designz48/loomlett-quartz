@@ -5,7 +5,7 @@ tags:
 date: 2026-04-28
 time: 2 min
 ---
-> **Last update**: [Update 4-26-26](https://loomlett.com/updates/Update-4-26-26)
+> **Last update**: [[Update 4-26-26]]
 
 > **Wrote**: [[Personal Thinkpad and Linux Uses]], [[Linux is Easy, Now]]
 

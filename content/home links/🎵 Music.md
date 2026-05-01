@@ -10,9 +10,10 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 
 # Consistents
 ## ⭐***DJ PYGME***⭐
-+ [Jumper 1.0](https://www.youtube.com/watch?v=fmhKSmWQlkk&list=RDfmhKSmWQlkk&start_radio=1), 2 & 3
++ [Jumper 1.0](https://www.youtube.com/watch?v=fmhKSmWQlkk&list=RDfmhKSmWQlkk&start_radio=1), [2.0](https://www.youtube.com/watch?v=UhqHN_laPKU) & [3.0](https://www.youtube.com/watch?v=TjcI7c7isHU)
 + [Town of my Soul](https://www.youtube.com/watch?v=vtIjwxcBtxo)
 + [Back 2 U](https://www.youtube.com/watch?v=1cb1kEK5PIE)
++ [Peace](https://www.youtube.com/watch?v=kDbX8tV6JgY&list=RDEMDs3CvqZNQAc9MkC6aPfqUA&index=27)
 + [Lights](https://www.youtube.com/watch?v=Kp4nbndjd5k&list=RDKp4nbndjd5k&start_radio=1)
 ### 🌿 Vexento
 + [Aurora](https://www.youtube.com/watch?v=kHszeVgalaQ&list=PLzaa6rlnrc6cM7-SWpeBz0PQ2AtP0dKWU&index=6)

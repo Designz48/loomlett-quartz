@@ -7,7 +7,7 @@ time: 2 min
 ---
 > **Last update**: [[Update 4-11-26]]
 
-> **Wrote**: [["The Cleanest Eyes I've Ever Seen"]]
+> **Wrote**: [[_The Cleanest Eyes I've Ever Seen_]]
 
 Today I had so many ideas.
 

@@ -7,7 +7,7 @@ time:
 ---
 > **Last update**: [[Update 4-14-26]]
 
-> **Wrote**: *(Updated)* [[Breakfast - Best Times to Consume for All-Day Energy]], [[What's a Digital Garden?]]
+> **Wrote**: *(Updated)* [[Breakfast - Best Times to Consume for All-Day Energy]], [[What's a Digital Garden_]]
 
 **When looking at my website for Loomlett, I noticed something peculiar**. When typing in loomlett.com the url went to a http rather than https (secure) protocol. While I'm not sure the risks for the user on an http site, please keep in mind to edit the url to https :// loomlett.com and that'll do it. Since other sites that I input the name and .com for have https show automatically, I'll check with Cloudflare to see if there's some setting adjustment.
 
