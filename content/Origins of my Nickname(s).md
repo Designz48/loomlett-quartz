@@ -1,10 +1,10 @@
 ---
-title: Origins of my Nickname(s)
+title: 🌱 Origins of my Nickname(s)
 draft: false
 tags:
   - experiences
 date: 2026-05-01
-time:
+time: 4 min
 ---
 **Having a nickname is like having a second identity**. It's a part of your full name, yet it's also something more. While some nickname's are provocative *(like S3rl's)*, others represent heartwarming memories. While I haven't been around many people, I've been giving 3 nicknames: one I named myself, the second from friends, and the third from a stranger. From understanding my nickname's I'm able to comprehend what makes nickname's special and identifying for a person, and if they *are* identifying or not. However, since none of my nickname's are either very heartwarming or provocative, it won't be a very good case study for this. So if you are someone who has a nickname that has been impactful, either for good or bad, I hope this helps you self-identify it for yourself.
 # OJ

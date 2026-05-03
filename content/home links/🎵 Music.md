@@ -39,11 +39,27 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 ### Other favorites
 + [Crossed Hearts](https://www.youtube.com/watch?v=N9KJG9IYP7c&list=RDD-oUnf9D5Co&index=2)
 + [Summertime](https://www.youtube.com/watch?v=25N1pdzvp4c&list=RD25N1pdzvp4c&start_radio=1)
-### More artists...
+
+---
+# ⚡ Hardstyle
 + [Empyre One](https://www.youtube.com/watch?v=WMU6NtxLUvE&list=RDWMU6NtxLUvE&start_radio=1)
 + [Italo Brothers](https://www.youtube.com/watch?v=EV6t2UMytSk&list=RDEV6t2UMytSk&start_radio=1)
-+ [F777](https://www.youtube.com/watch?v=cLNjP1vkyYU&list=RDcLNjP1vkyYU&start_radio=1)
-
++ ThePitcher
+	+ [Savor Time](https://www.youtube.com/watch?v=hqHfPftpA1A&list=RDhqHfPftpA1A&start_radio=1)
+	+ [Beautiful Days](https://www.youtube.com/watch?v=OD_0ykuVIwg&list=RDOD_0ykuVIwg&start_radio=1)
++ Alphascan
+	+ [Cyborg](https://www.youtube.com/watch?v=u6eKpLFteaI&list=RDu6eKpLFteaI&start_radio=1)
+	+ [Save](https://www.youtube.com/watch?v=BwLBKNkPEMo&list=RDBwLBKNkPEMo&start_radio=1)
+	+ [No Escape](https://www.youtube.com/watch?v=uxe-2KUMW7E&list=RDuxe-2KUMW7E&start_radio=1)
+	+ [Carry On Without You](https://www.youtube.com/watch?v=yv7Kb58IdQA&list=RDyv7Kb58IdQA&start_radio=1)
++ NIVIRO
+	+ [Seasons](https://www.youtube.com/watch?v=pDu6sbi-Zu4)
+	+ [Diamond](https://www.youtube.com/watch?v=Q6mLrKWyxAQ)
+	+ [Flashes](https://www.youtube.com/watch?v=3mBdT3izYcw)
+	+ [Life in Reverse](https://www.youtube.com/watch?v=ZHpGbP2ZvvY)
++ ElementD
+	+ [Radiate](https://www.youtube.com/watch?v=KPdPJr20loE&list=RDEMolkxMx13KQ4D1y3hK-KKLQ&index=2)
+	+ [Giving in](https://www.youtube.com/watch?v=DUJbtoGOeRU&list=RDEMolkxMx13KQ4D1y3hK-KKLQ&index=3)
 ---
 # 2020
 + Lindsey Stirling
