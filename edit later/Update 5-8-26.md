@@ -5,6 +5,10 @@ tags:
 date: 2026-05-08
 time:
 ---
+> **Last update**:
+
+> **Wrote**: [["To Know You at Once"]]
+
 **Today I started thinking** about [Words of Love (Numa Numa) by Different Heaven](https://www.youtube.com/watch?v=75lVcnYl1ZQ&list=RD75lVcnYl1ZQ&start_radio=1). About 4-ish years ago when I first heard it, I had thought, *"This melody sounds so similar to something."* I went on a gut feeling, and found it! [My Life is a Party by Italo Brothers](https://www.youtube.com/watch?v=HLgqP5LGBjc&list=RDHLgqP5LGBjc&start_radio=1), it's the same melody! Turns out, Different Heaven took the same notes for their own song- but made it better. Now, I'm a person who only really cares about the melody and sounds in a song, not so much the lyrics. Especially since most songs are often unoriginal since they rely heavily on love and heartbreak rather than, you know, other things. Though the lyrics in Numa Numa have always caught my ear, probably because of my love of color theory haha.
 
 This explanation is gonna sound a lil' cheesy, but I'm just explaining since this is a medium where I can. *Boy this became a long update, sorry.*
@@ -29,7 +33,7 @@ On to my thought on color theory, the [[bright winter]] [[skin tone]] season is 
 
 Another song that's similar, is MUFFIN by CG5. It's always been a confusing one for me to understand since: a guy came out of the blue with it, the lyrics are sung by multiple people, and the lyrics themselves are... how do I explain it? So the lyrics include keeping the doctor away 'cause the love interest is an apple, in addition to the love interest being an angel food cake, and also the love interest being an ICEE. The sweet as candy reference makes sense, but again it all came out of the blue. 
 
-These lyrics make this song original despite the theme of love being a readily overdone genre. I remember the interview with CG5 where he said something like, "I was walking and it came to me," which certainly makes for original music. I think what's interesting is the overall theme being the person knocking at the love interest's door, having known that person, and the love interest being an ICEE: cold? uncertain? hesitant? Sure isn't clear, but it reminds me of [No Go Go Go by 89ers](https://www.youtube.com/watch?v=aVd86Q_ToPg&list=RDaVd86Q_ToPg&start_radio=1). I guess I can relate personally since I've never considered any relationship and anything about lovey-dovey stuff just weirded me out.
+These lyrics make this song original despite the theme of love being a readily overdone genre. I remember the interview with CG5 where he said something like, "I was walking and it came to me," which certainly makes for original music. I think what's interesting is the overall theme being the person knocking at the love interest's door, having known that person, and the love interest being an ICEE: cold? uncertain? hesitant? Sure isn't clear, but it reminds me of [No Go Go Go by 89ers](https://www.youtube.com/watch?v=aVd86Q_ToPg&list=RDaVd86Q_ToPg&start_radio=1). I guess I can relate personally since I'd never considered any relationship and anything about lovey-dovey stuff just weirded me out.
 
 As for my personal experience with the song, it made a huge impact on me. This wasn't because I had been playing the guy's MC server for a month and was anticipating the song, I just didn't realize how it would affect me. It was the night before its release, and I was having the worst night of that year. Like, I was really upset. I'm a tuff gal though so I digress on details *(in which I've partly forgotten anyway :p)* and somehow I had my phone on me. 
 

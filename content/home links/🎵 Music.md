@@ -44,6 +44,7 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 # ⚡ Hardstyle
 + [Empyre One](https://www.youtube.com/watch?v=WMU6NtxLUvE&list=RDWMU6NtxLUvE&start_radio=1)
 + [Italo Brothers](https://www.youtube.com/watch?v=EV6t2UMytSk&list=RDEV6t2UMytSk&start_radio=1)
++ [Basshunter](https://www.youtube.com/watch?v=RYQUsp-jxDQ&list=RDyv7Kb58IdQA&index=10)
 + ThePitcher
 	+ [Savor Time](https://www.youtube.com/watch?v=hqHfPftpA1A&list=RDhqHfPftpA1A&start_radio=1)
 	+ [Beautiful Days](https://www.youtube.com/watch?v=OD_0ykuVIwg&list=RDOD_0ykuVIwg&start_radio=1)

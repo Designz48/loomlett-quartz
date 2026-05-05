@@ -19,7 +19,10 @@ def greet():
 **From around 2022 I had an idea**, as a 3D printing enthusiast I wanted to build a brand to create any design I wanted and bring it to life. However I had a problem, I was just getting done with high school remotely and didn't know much about business. While I tried some side hustles, the demands and increasing complexity of 3D printing became more and more through the years. In addition to complications with having sold physical products on Etsy/Ebay, I decided that the better thing was to take my brand and make it into a digital garden- **combining everything I've thought and done as a way to share with others.**
 
 Thank you for stopping by! I hope my articles from the past and future are meaningful to you in some way 😄 
-> [[Loomlett X post]]
+
+> Having troubles reading this website? **[4-question Typeform Poll](https://s07zotvuxj0.typeform.com/to/gBQpugCQ)**
+
+> [[Loomlett X post]] soon...
 
 ---
 # About author
@@ -36,7 +39,7 @@ I started off "Helping you build a routine that energizes- not exhausts 🗲", b
 ---
 # ✨ Updates
 Every day or so I write an update with changes I've made and the articles I wrote that day, it's a way to help me keep up-to-date n' organized. Here's the [[⚪ complete list of updates]].
-> **Recent Update**:  [[Update 5-3-26]]
+> **Recent Update**:  [[Update 5-5-26]]
 
 ---
 #### Goals to write n' introspect on

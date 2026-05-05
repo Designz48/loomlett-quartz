@@ -1,8 +1,8 @@
 ---
-title: Update
+title: Update 5-1-26
 draft: false
 tags:
-date:
+date: 2026-05-01
 time: 2 min
 ---
 > **Last update**: [[Update 4-28-26]]
