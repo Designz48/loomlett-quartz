@@ -11,4 +11,4 @@
 
 Hardstyle tracks often repeat this sequence two to three times, providing a dynamic listening experience. Over time, the genre has diversified into subgenres like ***Euphoric Hardstyle, Rawstyle, and the emerging Rawphoric***. Each subgenre offers its unique flavor, catering to a wide spectrum of audiences." - [FirebirdMag](https://firebirdmagazine.com/music-you-need-to-know/hard-dance-music)
 
-In my opinion, Euphoric Hardstyle has more harmony than any other genre. The music has a balance between light and heavy; calm and chaotic, and the dancing associated with it is great exercise with nothing inappropriate about it. [DJ Pygme](https://www.youtube.com/@djpygme) has the most creative balance and depth than other other hardstyle creator I've come across.
+In my opinion, Euphoric Hardstyle has more harmony than any other genre. The music has a balance between light and heavy; calm and chaotic, and the [[jumpstyle]] dancing associated with it is great exercise with nothing inappropriate about it. [DJ Pygme](https://www.youtube.com/@djpygme) has the most creative balance and depth than any other hardstyle creator I've come across.

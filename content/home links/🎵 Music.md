@@ -15,28 +15,28 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 + [Back 2 U](https://www.youtube.com/watch?v=1cb1kEK5PIE)
 + [Peace](https://www.youtube.com/watch?v=kDbX8tV6JgY&list=RDEMDs3CvqZNQAc9MkC6aPfqUA&index=27)
 + [Lights](https://www.youtube.com/watch?v=Kp4nbndjd5k&list=RDKp4nbndjd5k&start_radio=1)
-### 🌿 Vexento
+#### 🌿 Vexento
 + [Aurora](https://www.youtube.com/watch?v=kHszeVgalaQ&list=PLzaa6rlnrc6cM7-SWpeBz0PQ2AtP0dKWU&index=6)
 + [Lights](https://www.youtube.com/watch?v=MXKkMJVtOOQ&list=RDMXKkMJVtOOQ&start_radio=1)
 + [Raven's Call](https://www.youtube.com/watch?v=NZYHpFW1m6o&list=PLzaa6rlnrc6cM7-SWpeBz0PQ2AtP0dKWU)
 + [North Wind](https://www.youtube.com/watch?v=tCEIF2gd3sc&list=RDEMDGi8jiHxAHCBC-zp73j8Kg&index=6)
 + [Alone in the cold](https://www.youtube.com/watch?v=KammRg0TYQ0&list=RDEMDGi8jiHxAHCBC-zp73j8Kg&index=7)
 
-### 🕹️ Jensation
+#### 🕹️ Jensation
 + [Donuts](https://www.youtube.com/watch?v=D-oUnf9D5Co&list=RDD-oUnf9D5Co&start_radio=1)
 + [Daydream](https://www.youtube.com/watch?v=Mmu5Lo0lVnQ&list=RDMmu5Lo0lVnQ&start_radio=1)
 + [Joystick](https://www.youtube.com/watch?v=vpvytpRa_tQ&list=RDvpvytpRa_tQ&start_radio=1)
 
-### 👾 TheFatRat
+#### 👾 TheFatRat
 + [We'll Meet Again](https://www.youtube.com/watch?v=hJqYc62NCKo&list=RDhJqYc62NCKo&start_radio=1)
 + [Ray Tracer](https://www.youtube.com/watch?v=Ioh0bqty8LY&list=RDEMDGi8jiHxAHCBC-zp73j8Kg&index=4)
 
-### 💚 89ers
+#### 💚 89ers
 + [Go Go Go!](https://www.youtube.com/watch?v=GDA45wfHV14&list=RDGDA45wfHV14&start_radio=1)
 + [No Go Go Go](https://www.youtube.com/watch?v=aVd86Q_ToPg&list=RDaVd86Q_ToPg&start_radio=1)
 + [We Own the Night](https://www.youtube.com/watch?v=8--MS1nNKrI&list=RD8--MS1nNKrI&start_radio=1)
 
-### Other favorites
+#### Other favorites
 + [Crossed Hearts](https://www.youtube.com/watch?v=N9KJG9IYP7c&list=RDD-oUnf9D5Co&index=2)
 + [Summertime](https://www.youtube.com/watch?v=25N1pdzvp4c&list=RD25N1pdzvp4c&start_radio=1)
 
@@ -62,28 +62,52 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 	+ [Radiate](https://www.youtube.com/watch?v=KPdPJr20loE&list=RDEMolkxMx13KQ4D1y3hK-KKLQ&index=2)
 	+ [Giving in](https://www.youtube.com/watch?v=DUJbtoGOeRU&list=RDEMolkxMx13KQ4D1y3hK-KKLQ&index=3)
 ---
-# 2020
+#### 2020
 + Lindsey Stirling
 + SIA
 
-# 2021
+#### 2021
 + TheFatRat
 + muffin
 
-# 2022
+#### 2022
++ DJ Pygme
++ K-391
++ Ava Max
+
+#### 2023
 + DJ Pygme
 + K-391
 
-# 2023
+#### 2024
 + DJ Pygme
 + K-391
 
-# 2024
-+ DJ Pygme
-+ K-391
-
-# 2025
+#### 2025
 + DJ Pygme
 
-# 2026
+#### 2026
 + DJ Pygme
+
+---
+
+# 🫶 Telepathic Songs Shared So Far
+
+This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 0 minutes)*
+
++ Muffin 2021
++ Baby You're Really Hurting Me - May 1st - 2:36
++ Special About You Craig Reever - May 3rd or 4th - 2:33
++ Milva Keep This Feeling & Heyson Crucified - May 6th - 1:01 & 1:16
+
+
+---
++ Carry On Without You - [[Update 5-3-26]] 
++ "I'm in your Gravity~" - [[Update 5-5-26]]
++ Words of Love, Somebody Like Me, No Go Go Go - [[Update 5-8-26]]
++ ...
+
+
+---
+Oh and the reminiscent excessive staring into my soul- I mean camera, gave me a heartattack 😵‍💫 (May 2nd 3:18 & 3:23)
+	Nice cat game too, I like it. 

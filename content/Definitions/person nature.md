@@ -1,0 +1,1 @@
+What characteristics, behavior, personality a person is born with that sticks with them throughout their life, internal rather than external like [[nurture]].

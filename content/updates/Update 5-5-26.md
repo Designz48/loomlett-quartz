@@ -29,4 +29,4 @@ Here's the last image I'll take of my current desk setup before moving into a sp
 
 Oh... sorry, I meant 12'x28' shed :D the last I made that mistake was in a book I wrote where I said "they stared at each other for 3 minutes" and I had meant seconds. I was listening to that section at the time and I still laugh at it to this day.
 # Site dev
-Added a [[Nature]] article in **Gallery** folder.
+Added a [[content/Gallery/Nature]] article in **Gallery** folder.

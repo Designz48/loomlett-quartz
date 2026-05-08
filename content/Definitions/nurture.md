@@ -1,0 +1,1 @@
+What's taught to a person by external stimuli.
