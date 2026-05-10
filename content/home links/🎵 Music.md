@@ -99,15 +99,18 @@ This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 
 + Baby You're Really Hurting Me - May 1st - 2:36
 + Special About You Craig Reever - May 3rd or 4th - 2:33
 + Milva Keep This Feeling & Heyson Crucified - May 6th - 1:01 & 1:16
-
++ Zorro I Belong to You - May 8th - 00:35 *(and right back atcha! don't even worry about me leaving you 💜 | oh and is that what becoming a banana is about?)*
 
 ---
++ Digital Strangers - [["The year"]]
 + Carry On Without You - [[Update 5-3-26]] 
 + "I'm in your Gravity~" - [[Update 5-5-26]]
-+ Words of Love, Somebody Like Me, No Go Go Go - [[Update 5-8-26]]
++ Words of Love, Somebody Like Me, No Go Go Go, Onceuponadream - [[Update 5-8-26]]
++ Now You're Gone - [[Update 5-10-26]]
 + ...
 
-
 ---
-Oh and the reminiscent excessive staring into my soul- I mean camera, gave me a heartattack 😵‍💫 (May 2nd 3:18 & 3:23)
-	Nice cat game too, I like it. 
+
+I take it back, look at meeeeeeeeeeee waaaa
+
+lucy barking as ceo w/ the "one more thing" in background was so funny, also translations were goin' crazy at timestamp 1:28 May 9.

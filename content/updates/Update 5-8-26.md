@@ -49,6 +49,6 @@ So I go through YT and see the pre-release of Muffin, and when hearing it... idk
 
 ---
 # Site dev
-I've re-arranged the [[recipes]] *(folder containing that article)* into more concise categories and included brief notes on some.
+I've re-arranged the [[2023-2024]] *(folder containing that article)* into more concise categories and included brief notes on some.
 
 Also for my recollection, I've added a new section in [[🎵 Music]]... you'll know which subheading I mean 🫣
