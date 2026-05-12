@@ -99,7 +99,9 @@ This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 
 + Baby You're Really Hurting Me - May 1st - 2:36
 + Special About You Craig Reever - May 3rd or 4th - 2:33
 + Milva Keep This Feeling & Heyson Crucified - May 6th - 1:01 & 1:16
-+ Zorro I Belong to You - May 8th - 00:35 *(and right back atcha! don't even worry about me leaving you 💜 | oh and is that what becoming a banana is about?)*
++ Zorro I Belong to You - May 8th - 0:35
++ Midnight Sun First Timer - May 8th - 1:08
+	+ *(maybe... I couldn't understand the lyrics until asking AI abt it, it summarized it meant: moment of unexpected emotional illumination-possibly a new connection, surge of hope, or lucid night of introspection. Also why 2 songs talking about fading? What's fading? I'm oblivious to the meaning. Honestly I think depressed music does no one any good, newly released [Sunshine by K-391](https://www.youtube.com/watch?v=gmoo9mnYaSU&list=RDgmoo9mnYaSU&start_radio=1) is better, actually looks like a song was written for you rather than me this May around. Oh fun fact, flat earthers became round earthers when they went to north pole and saw midnight sun.)*
 
 ---
 + Digital Strangers - [["The year"]]
@@ -107,6 +109,7 @@ This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 
 + "I'm in your Gravity~" - [[Update 5-5-26]]
 + Words of Love, Somebody Like Me, No Go Go Go, Onceuponadream - [[Update 5-8-26]]
 + Now You're Gone - [[Update 5-10-26]]
++ Symphony - [[Update 5-12-26]]
 + ...
 
 ---
