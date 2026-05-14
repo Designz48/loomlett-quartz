@@ -1,5 +1,5 @@
 ---
-title: Personal Thinkpad and Linux Uses
+title: 🌱 Personal Thinkpad and Linux Uses
 draft: false
 tags:
   - linux

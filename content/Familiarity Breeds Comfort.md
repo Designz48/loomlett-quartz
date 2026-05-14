@@ -1,5 +1,5 @@
 ---
-title: Familiarity Breeds Comfort
+title: 🌱 Familiarity Breeds Comfort
 draft: false
 tags:
   - misc
@@ -60,9 +60,9 @@ With the familiarity of corn brought up at such a young age, so young in fact, t
 
 Lastly, it's the parent that a child's familiar with who should be making sure of their kids well being. I remember watching a video, I think it was MC-animated or something, that showed the exact right thing for parents to do. The video began with the kid getting a tablet and the parents saying, *"be careful what you do."* When the parents leave, the kid automatically searches up big booby something, then deletes it in fright that they would see. Later, the parents having had come back, say to him something like, "I see you searched up a nasty word, but it's ok, mistakes happen, we're going to put parental protections on your tablet." While that's all I remember of the video, what could be added is explaining *why* the kid shouldn't watch inappropriate content. After all, treating one's kid like their smart *will* make them smarter, as noted before.
 
-Lastly, while familiarity is comfort even in the most repulsive of habits, one can use the strategy for getting out of it. Now I'll speak generally, that even though I've lived in the same place all my life, haven't traveled anywhere in the last 5 years- and even then, it was only to Florida, I find comfort in the unknown. It's a contradiction yes, yet it scares me more to stay in one place mentality, like if I'm not growing. After all, I wouldn't be who I am if it weren't for my willpower in being who I wanted in [["The year"]].
+Lastly, while familiarity is comfort even in the most repulsive of habits, one can use the strategy for getting out of it. Now I'll speak generally, that even though I've lived in the same place all my life, haven't traveled anywhere in the last 5 years, I find comfort in the unknown. It's a contradiction yes, yet it scares me more to stay in one place mentally, like if I'm not growing. After all, I wouldn't be who I am if it weren't for my willpower in being who I wanted in [["The year"]].
 
-Reminds me of the [K-391 song Alive](https://www.youtube.com/watch?v=Lq6nhscVs5o) I always find in my head, "Tell me, are you living? Are you alive? Do you just give in or give it a try? If you're just watching the days go by..."
+Reminds me of the [K-391 song Alive](https://www.youtube.com/watch?v=Lq6nhscVs5o) I always find in my head, "Tell me, are you living? Or are you alive? Do you just give in or give it a try? If you're just watching the days go by..."
 
 ![alive](https://www.youtube.com/watch?v=Lq6nhscVs5o)
 

@@ -101,8 +101,6 @@ This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 
 + Milva Keep This Feeling & Heyson Crucified - May 6th - 1:01 & 1:16
 + Zorro I Belong to You - May 8th - 0:35
 + Midnight Sun First Timer - May 8th - 1:08
-	+ *(maybe... I couldn't understand the lyrics until asking AI abt it, it summarized it meant: moment of unexpected emotional illumination-possibly a new connection, surge of hope, or lucid night of introspection. Also why 2 songs talking about fading? What's fading? I'm oblivious to the meaning. Honestly I think depressed music does no one any good, newly released [Sunshine by K-391](https://www.youtube.com/watch?v=gmoo9mnYaSU&list=RDgmoo9mnYaSU&start_radio=1) is better, actually looks like a song was written for you rather than me this May around. Oh fun fact, flat earthers became round earthers when they went to north pole and saw midnight sun.)*
-
 ---
 + Digital Strangers - [["The year"]]
 + Carry On Without You - [[Update 5-3-26]] 
@@ -110,10 +108,11 @@ This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 
 + Words of Love, Somebody Like Me, No Go Go Go, Onceuponadream - [[Update 5-8-26]]
 + Now You're Gone - [[Update 5-10-26]]
 + Symphony - [[Update 5-12-26]]
++ Donuts - [[Update 5-14-26]]
 + ...
 
 ---
 
-I take it back, look at meeeeeeeeeeee waaaa
+nvm u were
 
-lucy barking as ceo w/ the "one more thing" in background was so funny, also translations were goin' crazy at timestamp 1:28 May 9.
+Sheep... a sheep game... out of any idea to do... sheep?! 🤣 I'll admit it's pretty creative, like "wolf in sheep's clothing" saying.
