@@ -1,1 +1,6 @@
 ![oak](/static/oak.jpeg)
+![chamomile](/static/chamomile.jpeg)
+![img1](/static/img1.jpeg)
+![oak2](/static/oak2.jpeg)
+![outside](/static/outside.jpeg)
+![outside1](/static/outside1.jpeg)

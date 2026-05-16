@@ -5,7 +5,7 @@ tags:
 date: 2026-05-14
 time: 2 min
 ---
-> **Last update**: [[secret update]]
+> **Last update**: [[Update 5-12-26]]
 
 >**Wrote**: [[Fighting Repetition in Writing]], *(Updated)* [[🎵 Music]]
 

@@ -43,3 +43,11 @@ They have huge impacts on wildlife. For example, bird's ingesting poisonous-to-t
 
 The best we can do is to have awareness of the hidden battle in these forests and weed away what we can in what land we can control. Pollinators will love you for it 🐝
 
+# Others
+#### Chinese Privet
+
+![privet](/static/privet.jpeg)
+
+#### Whatsitcalled grass
+
+![grass](/static/grass.jpeg)

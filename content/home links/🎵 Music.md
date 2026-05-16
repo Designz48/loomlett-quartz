@@ -109,10 +109,11 @@ This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 
 + Now You're Gone - [[Update 5-10-26]]
 + Symphony - [[Update 5-12-26]]
 + Donuts - [[Update 5-14-26]]
++ Love U - [[Update 4-16-26]]
 + ...
 
 ---
 
-nvm u were
+I've never seen more skill in critical thinking while speedrunning than what I saw May 14, just wow. 
 
-Sheep... a sheep game... out of any idea to do... sheep?! 🤣 I'll admit it's pretty creative, like "wolf in sheep's clothing" saying.
+Honestly I think you should write my draft article [[Convenient Now — Deadly Later]], I'm serious, you know *terabytes* more than I do.
