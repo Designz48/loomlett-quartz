@@ -91,9 +91,9 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 
 ---
 
-# 🫶 Telepathic Songs Shared So Far
+# 🫶 Telepathic Songs Shared
 
-This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 0 minutes)*
+This could've been all in my head, but I wrote it down anyway. *(ex. 1:00 = 1 hr 0 minutes)*
 
 + Muffin 2021
 + Baby You're Really Hurting Me - May 1st - 2:36
@@ -109,11 +109,5 @@ This could be all in my head, but I'm writing it down anyway. *(ex. 1:00 = 1 hr 
 + Now You're Gone - [[Update 5-10-26]]
 + Symphony - [[Update 5-12-26]]
 + Donuts - [[Update 5-14-26]]
-+ Love U - [[Update 4-16-26]]
-+ ...
-
----
-
-I've never seen more skill in critical thinking while speedrunning than what I saw May 14, just wow. 
-
-Honestly I think you should write my draft article [[Convenient Now — Deadly Later]], I'm serious, you know *terabytes* more than I do.
++ Love U - [[Update 5-16-26]]
++ Aurora - [[Update 5-17-26]]
