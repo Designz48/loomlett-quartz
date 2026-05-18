@@ -93,7 +93,7 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 
 # 🫶 Telepathic Songs Shared
 
-This could've been all in my head, but I wrote it down anyway. *(ex. 1:00 = 1 hr 0 minutes)*
+This was all in my head, but I had wrote it down anyway. *(ex. 1:00 = 1 hr 0 minutes)*
 
 + Muffin 2021
 + Baby You're Really Hurting Me - May 1st - 2:36
@@ -111,3 +111,4 @@ This could've been all in my head, but I wrote it down anyway. *(ex. 1:00 = 1 hr
 + Donuts - [[Update 5-14-26]]
 + Love U - [[Update 5-16-26]]
 + Aurora - [[Update 5-17-26]]
++ "I'm yours if you need me" - [[Update 5-18-26]]

@@ -1,8 +1,8 @@
 ---
-title: This Browser is Better Than You Think
+title: 🌱 This Browser is Better Than You Think
 draft: false
 tags:
-date:
+date: 2026-05-18
 time:
 ---
 *Open the laptop, power it on, click on Chrome, search what you want.*

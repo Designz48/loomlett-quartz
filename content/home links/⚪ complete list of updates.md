@@ -8,6 +8,7 @@
 + [[Update 5-14-26]]
 + [[Update 5-16-26]]
 + [[Update 5-17-26]]
++ [[Update 5-18-26]]
 
 # Starting updates to site
 + Around **September 2025** - bought domain, played around w/ squarespace, and came across digital gardens.

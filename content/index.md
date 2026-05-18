@@ -39,7 +39,7 @@ I started off "Helping you build a routine that energizes- not exhausts 🗲", b
 ---
 # ✨ Updates
 Every other day or so I write an update with changes I've made and the articles I wrote, it's a way to help me keep up-to-date n' organized. Here's the [[⚪ complete list of updates]].
-> **Recent Update**:  [[Update 5-17-26]]
+> **Recent Update**:  [[Update 5-18-26]]
 
 ---
 #### Goals to write n' introspect on
