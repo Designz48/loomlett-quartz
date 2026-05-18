@@ -9,6 +9,18 @@ time: 2 min
 
 >**Wrote**: [[Linux and memory usage]], [[This Browser is Better Than You Think]],
 
+
+As perhaps you've figured out, I write some of my updates a few days ahead of time and then plan when best to release them. Something terrible happened with my friend, just as I was wanting to involve him more w/ Loomlett, and so I've scrubbed anything personal about me- this includes all my updates before the 14th. It's just to take precautions.
+
+---
+
+After 3 days of not checking up on my squash, that I planted from seeds saved 2 years ago, there was amazing growth! I can't believe it, I didn't know whether they would grow at all, does it help that I prayed ahead of time?
+
+![grow](/static/grow.jpeg)
+
+---
+
+
 Watch this Richard, I'm looking at you 👁️
 
 Also since I really appreciated the words you've said, I've added the Memorability folder and article [[richard]]! I haven't had a friend like you since Nezzie... wherever she is...
@@ -45,3 +57,6 @@ So today all I have is non-alcoholic beer. He could've just let me know not to h
 
 Delicious greens growing, will have to check what they are 😋
 ![garden](/static/garden.jpeg)
+
+# Site dev
+Had a cloudflare error yesterday when deploying for seemingly no reason *(probably their end)*. However, Github was fine. So if I post a update and it doesn't deploy, then it will be on [Github](https://github.com/Designz48/loomlett-quartz) in a very code-esque way within *content*.
