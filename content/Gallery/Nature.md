@@ -1,3 +1,7 @@
+![stuff1](/static/stuff1.jpeg)
+![stuff2](/static/stuff2.jpeg)
+![stuff3](/static/stuff3.jpeg)
+![stuff4](/static/stuff4.jpeg)
 ![oak](/static/oak.jpeg)
 ![chamomile](/static/chamomile.jpeg)
 ![img1](/static/img1.jpeg)

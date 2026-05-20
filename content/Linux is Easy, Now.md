@@ -38,7 +38,7 @@ Yes, I mean at one point was recommended because some *(if not all)* have at lea
 
 Ok now after I've said that, there's gonna be complaints. ***Yes I know you have to troubleshoot problems on them***, but same as on Windows. Windows 10 had a whole beat-around-the-bush process in my opinion to solving problems, whereas in [[Arch]] I just type a command and see its logs to find the root to a problem.
 
-# How Richard benefited from Debian
+# How R benefited from Debian
 **When I agreed to send him a ([[thinkpad]]) T450** in exchange for him to video edit for my YT, I was set on giving him Linux Mint. After all, it's best for newbies right? However, when I had it installed on his computer, I started noticing little quirks that I didn't like. It's hard to explain it, I just figured it wouldn't be as comfortable for him. Linux Mint isn't very customizable, it defaults with the [[GNOME]] [[DE]] which looks good aesthetically but can feel clunky. So, I figured that [[KDE-Plasma]] [[DE]] would be better off for him. Since it was better for him to stick to [[Debian]]-forked [[distro]]s, I thought *why not Debian?* After all, I had it on my main laptop, so any troubleshooting on his end *(in another country!)* could be mirrored on my side fairly easy, considering we have similar specs.
 
 After being paranoid worrying about packaging the laptop, if there were errors in BIOS, and if everything was set up in the OS... plus a whole instruction .txt file for him, I shipped it off, hoping the best. Fortunately, after a whole month he got it, super happy for the huge upgrade it gave him! 

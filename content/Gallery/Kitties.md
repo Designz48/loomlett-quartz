@@ -4,4 +4,5 @@
 + [Cinnamon likes his name](https://drive.proton.me/urls/SGVPFPY0PR#tek97ANAtWzk)
 
 ![tuff](/static/tuff.jpg)
+![kitty](/static/kitty.png)
 ![cat](/static/cat.jpeg)![kirry](/static/kirry.jpeg)![kitty](/static/kitty1.jpeg)![kitty2](/static/kitty2.png)![rudy](/static/rudy.jpeg)

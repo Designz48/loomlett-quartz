@@ -1,6 +1,6 @@
 ---
 title: Convenient Now — Deadly Later
-draft: false
+draft: true
 tags:
   - linux
 date: 2025-07-19
