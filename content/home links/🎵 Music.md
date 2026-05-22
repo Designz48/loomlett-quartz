@@ -39,6 +39,7 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 #### Other favorites
 + [Crossed Hearts](https://www.youtube.com/watch?v=N9KJG9IYP7c&list=RDD-oUnf9D5Co&index=2)
 + [Summertime](https://www.youtube.com/watch?v=25N1pdzvp4c&list=RD25N1pdzvp4c&start_radio=1)
++ [Nevada](https://www.youtube.com/watch?v=AnMhdn0wJ4I&list=RDAnMhdn0wJ4I&start_radio=1)
 
 ---
 # ⚡ Hardstyle
@@ -102,13 +103,20 @@ This was all in my head, but I had wrote it down anyway. *(ex. 1:00 = 1 hr 0 min
 + Zorro I Belong to You - May 8th - 0:35
 + Midnight Sun First Timer - May 8th - 1:08
 ---
-+ Digital Strangers - [["The year"]]
-+ Carry On Without You - [[Update 5-3-26]] 
-+ "I'm in your Gravity~" - [[Update 5-5-26]]
-+ Words of Love, Somebody Like Me, No Go Go Go, Onceuponadream - [[Update 5-8-26]]
-+ Now You're Gone - [[Update 5-10-26]]
-+ Symphony - [[Update 5-12-26]]
-+ Donuts - [[Update 5-14-26]]
-+ Love U - [[Update 5-16-26]]
-+ Aurora - [[Update 5-17-26]]
++ Digital Strangers K-391 - [["The year"]]
++ Carry On Without You Alphascan - [[Update 5-3-26]] 
++ "I'm in your Gravity~" Kelly Sweet - [[Update 5-5-26]]
++ Words of Love Different Heaven, Somebody Like Me Xillions, No Go Go Go 89ers, Onceuponadream - [[Update 5-8-26]]
++ Now You're Gone Basshunter - [[Update 5-10-26]]
++ Symphony Clean Bandit - [[Update 5-12-26]]
++ Donuts Jensation - [[Update 5-14-26]]
++ Love U Razihel - [[Update 5-16-26]]
++ Aurora K-391 - [[Update 5-17-26]]
 + "I'm yours if you need me" - [[Update 5-18-26]]
++ Collide Vicetone - [[Update 5-22-26]]
+
+---
+
+Terrified of what's been said or done in my absence similarly to April of 2023, unable to look- yet not having the feeling to unlike on/before May 15th. Waiting for you. 
+
+*"Crucified by your love I got nowhere else to run...."*

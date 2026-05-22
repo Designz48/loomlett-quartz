@@ -3,7 +3,7 @@ Wow and Woah! Wonderful, wonderful job on , Olive! Bellisimo, bravo, bravo! I lo
 What I love most about the website is that it feels Olive *(Note: bro said my last name... DELETED HAHA)*, it feels like you. Of course, it is not exhibiting everything about you as you can't be contained in one website; you're a human being. lol But yeah, it feels you, and I love that! Not everyone would notice it, as not everyone knows you (or should they) but I'm sure they would feel a sense of purity and authenticity in the site. Also, the site feels cute in a way. I don't know how I can describe why and how it feels so. SO yeah, you're doing great!
 
 ---
-![r](/static/R.png)
+![r](/static/r.png)
 
   ---
   

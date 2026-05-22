@@ -18,6 +18,10 @@ With dark blue-green flexible stalks protruding from the ground, they're easy to
 Also called *deadnettle* due to its lack of stinging *(like stinging nettle)*, the entire weed is edible and has an earthy, unique taste that pairs well with lemon.
 ![[quartz/static/henbit.jpeg]]
 
+# Yarrow
+
+![yarrow1](/static/yarrow.jpeg)
+
 # Invasive plants
 Whether they keep other plants from growing or are just a pest to keep around, here's the good and the bad of the most common invasive plants.
 
