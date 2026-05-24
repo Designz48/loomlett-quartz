@@ -36,10 +36,15 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 + [No Go Go Go](https://www.youtube.com/watch?v=aVd86Q_ToPg&list=RDaVd86Q_ToPg&start_radio=1)
 + [We Own the Night](https://www.youtube.com/watch?v=8--MS1nNKrI&list=RD8--MS1nNKrI&start_radio=1)
 
+#### ☀️ Vicetone
++ [Nevada](https://www.youtube.com/watch?v=AnMhdn0wJ4I&list=RDAnMhdn0wJ4I&start_radio=1)
++ [Walk Thru Fire](https://www.youtube.com/watch?v=kRauptdx_Is&start_radio=1)
++ [Nothing Stopping Me](https://www.youtube.com/watch?v=HFuR8WJTkGM&list=RDHFuR8WJTkGM&start_radio=1)
 #### Other favorites
 + [Crossed Hearts](https://www.youtube.com/watch?v=N9KJG9IYP7c&list=RDD-oUnf9D5Co&index=2)
++ [Feel Like Horrible](https://www.youtube.com/watch?v=lm4OJxGQm_E&list=RDlm4OJxGQm_E&start_radio=1)
 + [Summertime](https://www.youtube.com/watch?v=25N1pdzvp4c&list=RD25N1pdzvp4c&start_radio=1)
-+ [Nevada](https://www.youtube.com/watch?v=AnMhdn0wJ4I&list=RDAnMhdn0wJ4I&start_radio=1)
++ [Hard One](https://www.youtube.com/watch?v=RTGCHbHgS1o&list=RDRTGCHbHgS1o&start_radio=1)
 
 ---
 # ⚡ Hardstyle
@@ -117,6 +122,4 @@ This was all in my head, but I had wrote it down anyway. *(ex. 1:00 = 1 hr 0 min
 
 ---
 
-Terrified of what's been said or done in my absence similarly to April of 2023, unable to look- yet not having the feeling to unlike on/before May 15th. Waiting for you. 
-
-*"Crucified by your love I got nowhere else to run...."*
+Oh oh oh~ just putting text here in case you expected it Darryl *(if that's ur name)*. I just added Hard One and some others to my list. Also please don't expect me to like... idk, be mushy the moment if I ever see you in person, I might ignore you for a bit, no worries. Love U. 
