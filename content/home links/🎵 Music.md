@@ -40,6 +40,15 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 + [Nevada](https://www.youtube.com/watch?v=AnMhdn0wJ4I&list=RDAnMhdn0wJ4I&start_radio=1)
 + [Walk Thru Fire](https://www.youtube.com/watch?v=kRauptdx_Is&start_radio=1)
 + [Nothing Stopping Me](https://www.youtube.com/watch?v=HFuR8WJTkGM&list=RDHFuR8WJTkGM&start_radio=1)
+
+#### Tristam
+*Fun fact, because my favorite name is Tristan I searched it up on Spotify and found Tristam... crazy ik, but that's how I remember it. Probs my 3rd fav artist now.*
++ [Flight to the Stars](https://www.youtube.com/watch?v=bS93Een_eEY&list=RDRTGCHbHgS1o&index=3)
++ [Follow Me](https://www.youtube.com/watch?v=oIr5Eamemv8&start_radio=1)
++ [I Remember](https://www.youtube.com/watch?v=G1qO2pxzHNE&start_radio=1)
++ [Truth](https://www.youtube.com/watch?v=dEfo7cqhXl8)
+#### Braken
++ [Wherever You Go](https://www.youtube.com/watch?v=IsFnnTbrOIs&list=RDIsFnnTbrOIs&start_radio=1)
 #### Other favorites
 + [Crossed Hearts](https://www.youtube.com/watch?v=N9KJG9IYP7c&list=RDD-oUnf9D5Co&index=2)
 + [Feel Like Horrible](https://www.youtube.com/watch?v=lm4OJxGQm_E&list=RDlm4OJxGQm_E&start_radio=1)
@@ -69,31 +78,27 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 	+ [Giving in](https://www.youtube.com/watch?v=DUJbtoGOeRU&list=RDEMolkxMx13KQ4D1y3hK-KKLQ&index=3)
 ---
 #### 2020
-+ Lindsey Stirling
-+ SIA
-
++ [Motiv.Boii:P](https://open.spotify.com/playlist/21matQv9zOmrdnbfag6eUB?si=7rbU8hEKQxOHmF8ezCxUjA)
++ [TB Recollected~](https://open.spotify.com/playlist/5EJpoMggRiPxdsz6dovA7X)
 #### 2021
-+ TheFatRat
-+ muffin
-
++ [Legendz](https://open.spotify.com/playlist/4SabCvhHeL5qVPEj3VTIKk?si=5Lyws3PSSgerTCwwXjgj6A)
++ [Bro](https://open.spotify.com/playlist/1DhL2kJ6esmEHT84YdCXle)
++ [Nost.JUMPbrosh](https://open.spotify.com/playlist/2e29HqUt7XdSqV5Kaz3wxD?si=nCjA92lkQfSOLeXdUOBing)
++ [Betterthanwalkrnotpygme](https://open.spotify.com/playlist/5cU7Y4wjUMHmCktYURmBeD?si=ONEtAOowTlOeGu9wD-YsKg)
 #### 2022
-+ DJ Pygme
-+ K-391
-+ Ava Max
-
++ [Mind Forgetzz](https://open.spotify.com/playlist/12Jbx2FfhOyjr8twTcoVQQ?si=ONwPFR4LTb6ZaEuzB06dbw)
++ [EM Boiiiii](https://open.spotify.com/playlist/2osr3FAwlVxPoYHkn6u8Hm)
++ [FAV~2022](https://open.spotify.com/playlist/0ay4kTaMcXnUvT9XEVFM3x?si=Zc7_kUhdQNGAuy3-Go9lwA)
 #### 2023
-+ DJ Pygme
-+ K-391
-
++ [Hit Brosh~s](https://open.spotify.com/playlist/5jrHlrECAhwr99GE6Bos5d?si=19cqpaoHTz6NUW4vicKZww)
++ [~EDM~](https://open.spotify.com/playlist/1RLPewuNMpgTnvw8zAe4hU?si=lZjNe7JpRRupYXfEYvF1rQ)
 #### 2024
-+ DJ Pygme
-+ K-391
-
++ [Wow](https://open.spotify.com/playlist/1Rhia3ovIW0M2WGGXJMUWl?si=bTrO1UR3QsK08wPDxAdBnA)
++ [DjJUMPSTYLE~](https://open.spotify.com/playlist/0ags0EPzIPMrap6ivgyN8w?si=GwxgvkolQQ6EP6JQHLGDhw)
 #### 2025
-+ DJ Pygme
-
++ [Lit~Dropz](https://open.spotify.com/playlist/6BUFAmqGjgVw17I2f9FyAo)
 #### 2026
-+ DJ Pygme
++ DJ Pygme foreverrr
 
 ---
 
@@ -122,4 +127,4 @@ This was all in my head, but I had wrote it down anyway. *(ex. 1:00 = 1 hr 0 min
 
 ---
 
-Oh oh oh~ just putting text here in case you expected it Darryl *(if that's ur name)*. I just added Hard One and some others to my list. Also please don't expect me to like... idk, be mushy the moment if I ever see you in person, I might ignore you for a bit, no worries. Love U. 
+Throwback to maybe 2 days ago... and throughout the last month.. when I thought of saying "Drop everything and marry me"... but I don't know you as well as you know me, since streams don't help that. Funny considering I often thought how you didn't even know I existed. So when you're ready, please email me or the MySudo number (404-793-6243) I have. I don't care what you say on it, simply bop will do. That way we can have genuine communication.
