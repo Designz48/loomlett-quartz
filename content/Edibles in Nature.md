@@ -22,6 +22,10 @@ Also called *deadnettle* due to its lack of stinging *(like stinging nettle)*, t
 
 ![yarrow1](/static/yarrow.jpeg)
 
+# Pepperweed
+
+![static](/static/pepperweed.jpeg)
+
 # Invasive plants
 Whether they keep other plants from growing or are just a pest to keep around, here's the good and the bad of the most common invasive plants.
 

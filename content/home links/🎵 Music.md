@@ -104,7 +104,7 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 
 # 🫶 Telepathic Songs Shared
 
-This was all in my head, but I had wrote it down anyway. *(ex. 1:00 = 1 hr 0 minutes)*
+Not in my head? i-i-i-i- love you, miss you, love you
 
 + Muffin 2021
 + Baby You're Really Hurting Me - May 1st - 2:36
@@ -127,4 +127,12 @@ This was all in my head, but I had wrote it down anyway. *(ex. 1:00 = 1 hr 0 min
 
 ---
 
-Throwback to maybe 2 days ago... and throughout the last month.. when I thought of saying "Drop everything and marry me"... but I don't know you as well as you know me, since streams don't help that. Funny considering I often thought how you didn't even know I existed. So when you're ready, please email me or the MySudo number (404-793-6243) I have. I don't care what you say on it, simply bop will do. That way we can have genuine communication.
+Last night I finally remembered to join in on the zoom meeting, since I felt someone driving by *(unless I’m crazy)* and drive north of me. If so, it’s nice to know where the hall is in relation to my house… or you :D it’ll probably be the last for Wednesdays tho since my dad gets stressed whenever I have the meeting on *(sundays he works, not at house to hear)*. 
+
+There’s been some things happening in the “theocratic arrangement” that have discouraged him. I’d talk abt it with you, and I’m sure my dad will talk plenty about it if the time comes 😅 I guess I could quote him: *“things have changed” “this is boring” “it’s different since COVID”* yet because they continue teaching the truth about the Bible (preaching as Jesus did, the memorial, resurrection) we trust it’s Jehovah’s “faithful and discreet slave” while the Bible says it will be. Especially if he’s led me to you through it… or vice versa, blop.
+
+Dang I told my dad how well Jake (H)’s confidence has increased over time with his comments and he said “just invite him over! Tho he’s 9 yrs older than you” what 🤣 I can’t read my dad so I can’t ascertain his thoughts on it, but makes me think: oh boy, why don’t I just say “I met a guy named Darryl who’s 10 yrs older than me and I’m gonna invite him over, ur gonna love him like me!” And here I was thinking it was gonna be so hard when it’s actually this easy? Idk.
+
+… do you somehow live closer to me now? Crazy thought… anyhow I hope to see you soon ❤️ (hopefully not in my rear view window since I might fall off the road, haha jk i’d prefer it. Wait, not falling off the road XD I mean not having crazy ppl on my tail- tho if u were in front that’d be great). Speaking of which, sometimes my dad drives my silver-blue [hyondai ioniq](https://www.motortrend.com/cars/hyundai/ioniq/2020) when grocery shopping.
+
+Yes I wrote all this during the meeting (am wrote it oop)
