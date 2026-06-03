@@ -104,7 +104,7 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 
 # 🫶 Telepathic Songs Shared
 
-Not in my head? i-i-i-i- love you, miss you, love you
+***I did write***: Nevermind it was all in my head; no proof, no evidence, why should I bother? I hold out hope to no avail, evermore, because you're the only one for me. ***But after*** whatever happened last night I'll stick to: i-i-i-i love you, miss you, love you
 
 + Muffin 2021
 + Baby You're Really Hurting Me - May 1st - 2:36
@@ -124,15 +124,4 @@ Not in my head? i-i-i-i- love you, miss you, love you
 + Aurora K-391 - [[Update 5-17-26]]
 + "I'm yours if you need me" - [[Update 5-18-26]]
 + Collide Vicetone - [[Update 5-22-26]]
-
----
-
-I feel like I had a lil' follower yesterday- **yes I saw you**, through the eyes on the back of my head. There's nothing to worry about, your deathstare can intimidate anyone. When you focus intently, you give the most intense glare, and that's good. If you do get your confidence to not duck in at the start of the meeting and duck out at the end, I think Jake H. could use a good friend. For one, he's a lone wolf after his family either passed, moved away, and hasn't given him encouragement. Also, my dad has noticed how much better he's become that he keeps asking me to invite him over *(he's maybe 30 yrs old)* sooooo he could bring you too :D
-
-While I didn't get to give my 2nd comment which *I* at least thought was better than the first, you can ~~hear~~ read it: 
-
->While we're not immune from bad situations, Jehovah gives us the strength to go through them. Like Jonah, when we see how Jehovah has protected us before, even in small ways, no doubt will he protect us in future situations we may have no control over.
-
-I wouldn't have made it to the meeting if it weren't for your encouragement, telepathically transmitted in my subconscious I guess, or perhaps it's because the room didn't feel empty, so thank you 🫂 I may try to go every other Sunday from now on. While I would've liked to see the most handsome man I've ever laid eyes on, perhaps soon, please? I miss you. I don't want another 3 years to go by only to see you on just a screen. The library is a nice place, don't you think?
-
-Also, please know that if I don't post an update on the usual day *(every other day)* that it's because of technical errors, since I can't help but tell you *something* on every update, even if it's just [[i wuv u]].
++ Invisible - [[Update 6-3-26]]
