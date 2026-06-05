@@ -104,7 +104,7 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 
 # 🫶 Telepathic Songs Shared
 
-***I did write***: Nevermind it was all in my head; no proof, no evidence, why should I bother? I hold out hope to no avail, evermore, because you're the only one for me. ***But after*** whatever happened last night I'll stick to: i-i-i-i love you, miss you, love you
+i-i-i-i- love you, miss you, love you
 
 + Muffin 2021
 + Baby You're Really Hurting Me - May 1st - 2:36
@@ -125,3 +125,10 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 + "I'm yours if you need me" - [[Update 5-18-26]]
 + Collide Vicetone - [[Update 5-22-26]]
 + Invisible - [[Update 6-3-26]]
+---
+
+I believe my i-know-where-you-are feeling has been taken away thanks to 2 days ago *(today perspective)* when I thought you were awfully close by, and all I wanted to do was run away. So... blop, good for you.
+
+ *(update: now i only have an inkling and nothing more... which is making me think im going crazy because i don't know how you'd be here)*
+
+Now that it's been a day later, uh, kissy-wissy? Imagine having a first kiss before even meeting... my fault? I can't help but smother you... or the blanket, wth. <p style="font-size:2px;">thanks 4 not smothering meee ahhh. i cant imagine this is in my head, to feel something so real. here i was thinking self-control was needed because of everything i've read, but somehow jehovah has brought this upon us. i knew u were special, but you must be really special for this to happen. hahah i can only imagine u getting up repeatedly being terrified... before you kinda maybe saybe baybe kissed me anyhow, blopwopdopsoup. interesting how the bed is the only place we can't run away from.</p> [[i wuv u]]
