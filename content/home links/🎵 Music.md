@@ -127,8 +127,14 @@ i-i-i-i- love you, miss you, love you
 + Invisible - [[Update 6-3-26]]
 ---
 
-I believe my i-know-where-you-are feeling has been taken away thanks to 2 days ago *(today perspective)* when I thought you were awfully close by, and all I wanted to do was run away. So... blop, good for you.
+Darryl, [morse code](https://morsecode.world/international/translator.html)? 
+	Ex: -..  .-  .-.  .-.  -.--  .-.. is your name
+		- Dot = short tap (~1 unit)
+		- Dash = long tap (~3 units)
+		- Between elements of same letter = silence of 1 unit
+		- Between letters = silence of 3 units
+		- Between words = silence of 7 units
+			Hence: long tap, short tap, short tap, silence of 3 seconds... onward.
+	Tap twice first, then begin word. 
 
- *(update: now i only have an inkling and nothing more... which is making me think im going crazy because i don't know how you'd be here)*
-
-Now that it's been a day later, uh, kissy-wissy? Imagine having a first kiss before even meeting... my fault? I can't help but smother you... or the blanket, wth. <p style="font-size:2px;">thanks 4 not smothering meee ahhh. i cant imagine this is in my head, to feel something so real. here i was thinking self-control was needed because of everything i've read, but somehow jehovah has brought this upon us. i knew u were special, but you must be really special for this to happen. hahah i can only imagine u getting up repeatedly being terrified... before you kinda maybe saybe baybe kissed me anyhow, blopwopdopsoup. interesting how the bed is the only place we can't run away from.</p> [[i wuv u]]
+I need communication from you because I don't know what you want from me.
