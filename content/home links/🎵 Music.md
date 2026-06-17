@@ -125,16 +125,4 @@ i-i-i-i- love you, miss you, love you
 + "I'm yours if you need me" - [[Update 5-18-26]]
 + Collide Vicetone - [[Update 5-22-26]]
 + Invisible - [[Update 6-3-26]]
----
 
-Darryl, [morse code](https://morsecode.world/international/translator.html)? 
-	Ex: -..  .-  .-.  .-.  -.--  .-.. is your name
-		- Dot = short tap (~1 unit)
-		- Dash = long tap (~3 units)
-		- Between elements of same letter = silence of 1 unit
-		- Between letters = silence of 3 units
-		- Between words = silence of 7 units
-			Hence: long tap, short tap, short tap, silence of 3 seconds... onward.
-	Tap twice first, then begin word. 
-
-I need communication from you because I don't know what you want from me.
