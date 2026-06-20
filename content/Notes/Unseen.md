@@ -1,7 +1,0 @@
-"To have as little impact on anywhere as possible is a really appealing thought, which is like never being born," said Jake. No legitimate home, no name on a piece of government paper, no fingerprints. To be nameless, with no identity, not bogged down by any system but to "lightly live everywhere" was something they both craved in real life."
-
-To be unseen seems to be inviting, yet it's the lack of understanding what it means to be seen, or perhaps the lack of bravery, that I've realized. It's easy to have gone through bad situations, or see bad situations, and simply drift as a coping mechanism, this is what I thought of when I heard my friend want to be nameless in *(the year?)*. As for me, to be set apart from situations have given me insight, but in dreaming up situations have made them appear boring because there is no *feel* to those instances. While it makes planning things helpful, it doesn't give a first-person perspective of the richness of *being* in that situation.
-
-Being scared of the burden we have on people has some weight as well, yet I would never consider anyone to be a burden to me. In thinking this then, it's understanding where our priorities lie that matter. And so I ask myself, *Why do you want to be unseen?* Because it's easier that way. *What more do I have to learn?* Plenty, though it may be time to experience it first-hand rather than living situations in my mind. 
-
-Reminds me of [[In the Moment]]
