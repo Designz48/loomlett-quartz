@@ -100,29 +100,3 @@ To keep reference for my music tastes, I'll group first by consistent liking and
 #### 2026
 + DJ Pygme foreverrr
 
----
-
-# 🫶 Telepathic Songs Shared
-
-i-i-i-i- love you, miss you, love you
-
-+ Muffin 2021
-+ Baby You're Really Hurting Me - May 1st - 2:36
-+ Special About You Craig Reever - May 3rd or 4th - 2:33
-+ Milva Keep This Feeling & Heyson Crucified - May 6th - 1:01 & 1:16
-+ Zorro I Belong to You - May 8th - 0:35
-+ Midnight Sun First Timer - May 8th - 1:08
----
-+ Digital Strangers K-391 - [["The year"]]
-+ Carry On Without You Alphascan - [[Update 5-3-26]] 
-+ "I'm in your Gravity~" Kelly Sweet - [[Update 5-5-26]]
-+ Words of Love Different Heaven, Somebody Like Me Xillions, No Go Go Go 89ers, Onceuponadream - [[Update 5-8-26]]
-+ Now You're Gone Basshunter - [[Update 5-10-26]]
-+ Symphony Clean Bandit - [[Update 5-12-26]]
-+ Donuts Jensation - [[Update 5-14-26]]
-+ Love U Razihel - [[Update 5-16-26]]
-+ Aurora K-391 - [[Update 5-17-26]]
-+ "I'm yours if you need me" - [[Update 5-18-26]]
-+ Collide Vicetone - [[Update 5-22-26]]
-+ Invisible - [[Update 6-3-26]]
-

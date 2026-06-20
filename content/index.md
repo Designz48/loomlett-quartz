@@ -26,7 +26,7 @@ Thank you for stopping by! I hope my articles from the past and future are meani
 
 ---
 # About author
-![[static/logo.png|50]]Hey there! I'm DesignzByOJ (Olivia), a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
+![[static/logo.png|50]]Hey there! I'm DesignzByOJ, a graphic designer by study and self-taught to be a 3D Designer in Blender. I'm passionate about color theory, nature, and Thinkpads/Linux (I use 4!).
 I started off "Helping you build a routine that energizes- not exhausts 🗲", but now it's become **documenting parts of my life to help others be digitally independent.**
 
 > [[💻 Projects I'm working on]], [[🎵 Music]], [[📸 Photography]], [[📚 Books]], [[(˶˃ ᵕ ˂˶) Why I started this]]
@@ -35,11 +35,6 @@ I started off "Helping you build a routine that energizes- not exhausts 🗲", b
 
 ![[static/Frame.png]]
 >**Portfolio** [Dribbble](https://dribbble.com/designzbyoj)
-
----
-# ✨ Updates
-Every other day or so I write an update with changes I've made and the articles I wrote, it's a way to help me keep up-to-date n' organized. 
-> **Recent Update**:  [[Update 6-5-26]]
 
 ---
 #### Goals to write n' introspect on
